@@ -1,12 +1,17 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
-import { mkdir, writeFile } from 'fs/promises';
+import { mkdir, readFile, writeFile } from 'fs/promises';
 import { dirname } from 'path';
 
-const ATHLETE_URL = 'https://fencing.ophardt.online/en/biography/athlete/calles-taponen-oscar';
+const BASE_URL = 'https://fencing.ophardt.online';
+const ATHLETES_FILE = 'data/athletes.json';
 
 function athleteSlug(url) {
   return url.replace(/\/$/, '').split('/').pop();
+}
+
+function athleteUrl(url) {
+  return url.startsWith('http') ? url : `${BASE_URL}${url}`;
 }
 
 function extractAthleteId($) {
@@ -86,7 +91,7 @@ function parseMatchTable(html) {
 }
 
 async function fetchMatchDetails(athleteId, season) {
-  const url = `https://fencing.ophardt.online/en/biography/athlete-matchdetails/${athleteId}`;
+  const url = `${BASE_URL}/en/biography/athlete-matchdetails/${athleteId}`;
   const { data: html } = await axios.post(
     url,
     new URLSearchParams({ match_seasons: season }),
@@ -95,30 +100,86 @@ async function fetchMatchDetails(athleteId, season) {
   return html;
 }
 
-const slug = athleteSlug(ATHLETE_URL);
-const { data: bioHtml } = await axios.get(ATHLETE_URL);
-const $bio = cheerio.load(bioHtml);
-
-const athleteId = extractAthleteId($bio);
-if (!athleteId) {
-  throw new Error(`Could not find athlete id on ${ATHLETE_URL}`);
+async function loadAthletes() {
+  return JSON.parse(await readFile(ATHLETES_FILE, 'utf8'));
 }
 
-const seasons = extractSeasons($bio);
-console.log(`Athlete id: ${athleteId}`);
-console.log(`Seasons: ${seasons.map((s) => `${s.value} (${s.label})`).join(', ')}`);
+export async function resolveAthlete(name) {
+  const normalized = name.toLowerCase();
+  let athletes;
 
-const matches = [];
+  try {
+    athletes = await loadAthletes();
+  } catch {
+    athletes = [];
+  }
 
-for (const season of seasons) {
-  const matchHtml = await fetchMatchDetails(athleteId, season.value);
-  const seasonMatches = parseMatchTable(matchHtml);
-  matches.push(...seasonMatches);
-  console.log(`${season.label}: ${seasonMatches.length} matches`);
+  const bySlug = athletes.find((a) => athleteSlug(a.url).toLowerCase() === normalized);
+  if (bySlug) return bySlug;
+
+  const byName = athletes.find((a) => a.name.toLowerCase() === normalized);
+  if (byName) return byName;
+
+  const byPartial = athletes.find((a) => a.name.toLowerCase().includes(normalized));
+  if (byPartial) return byPartial;
+
+  return { name, url: `/en/biography/athlete/${name}` };
 }
 
-const outputPath = `data/matches/${slug}.json`;
-await mkdir(dirname(outputPath), { recursive: true });
-await writeFile(outputPath, JSON.stringify(matches, null, 2));
+export async function fetchMatchesForAthlete(athlete) {
+  const url = athleteUrl(athlete.url);
+  const slug = athleteSlug(athlete.url);
+  const { data: bioHtml } = await axios.get(url);
+  const $bio = cheerio.load(bioHtml);
 
-console.log(`Wrote ${matches.length} matches to ${outputPath}`);
+  const athleteId = extractAthleteId($bio);
+  if (!athleteId) {
+    throw new Error(`Could not find athlete id on ${url}`);
+  }
+
+  const seasons = extractSeasons($bio);
+  console.log(`Athlete id: ${athleteId}`);
+  console.log(`Seasons: ${seasons.map((s) => `${s.value} (${s.label})`).join(', ')}`);
+
+  const matches = [];
+
+  for (const season of seasons) {
+    const matchHtml = await fetchMatchDetails(athleteId, season.value);
+    const seasonMatches = parseMatchTable(matchHtml);
+    matches.push(...seasonMatches);
+    console.log(`${season.label}: ${seasonMatches.length} matches`);
+  }
+
+  const outputPath = `data/matches/${slug}.json`;
+  await mkdir(dirname(outputPath), { recursive: true });
+  await writeFile(outputPath, JSON.stringify(matches, null, 2));
+
+  console.log(`Wrote ${matches.length} matches to ${outputPath}`);
+}
+
+export async function fetchMatches(name) {
+  const athlete = await resolveAthlete(name);
+  await fetchMatchesForAthlete(athlete);
+}
+
+export async function fetchAllMatches() {
+  const athletes = await loadAthletes();
+  for (const athlete of athletes) {
+    const slug = athleteSlug(athlete.url);
+    console.log(`\nFetching ${athlete.name} (${slug})...`);
+    await fetchMatchesForAthlete(athlete);
+  }
+}
+
+export async function listMatches(name) {
+  const athlete = await resolveAthlete(name);
+  const slug = athleteSlug(athlete.url);
+  const outputPath = `data/matches/${slug}.json`;
+  const matches = JSON.parse(await readFile(outputPath, 'utf8'));
+
+  for (const match of matches) {
+    const result = match.win ? 'W' : 'L';
+    const score = `${match.scoreOwn}-${match.scoreOpponent}`;
+    console.log(`${match.date} ${result} ${score} vs ${match.opponent}`);
+  }
+}

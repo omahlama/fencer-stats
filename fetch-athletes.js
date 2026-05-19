@@ -1,6 +1,7 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 import { createWriteStream } from 'fs';
+import { readFile } from 'fs/promises';
 import { finished } from 'stream/promises';
 
 const BASE_URL = 'https://fencing.ophardt.online/en/search/biographies';
@@ -41,24 +42,34 @@ async function scrape(url) {
   }).get();
 }
 
-const searchTerms = [...twoLetterTerms()];
-const total = searchTerms.length;
-const out = createWriteStream(OUTPUT);
-let first = true;
-out.write('[');
+export async function fetchAthletes() {
+  const searchTerms = [...twoLetterTerms()];
+  const total = searchTerms.length;
+  const out = createWriteStream(OUTPUT);
+  let first = true;
+  out.write('[');
 
-for (let i = 0; i < searchTerms.length; i++) {
-  const athletes = await scrape(buildUrl(searchTerms[i]));
-  for (const athlete of athletes) {
-    if (!first) out.write(',');
-    first = false;
-    out.write(JSON.stringify(athlete));
+  for (let i = 0; i < searchTerms.length; i++) {
+    const athletes = await scrape(buildUrl(searchTerms[i]));
+    for (const athlete of athletes) {
+      if (!first) out.write(',');
+      first = false;
+      out.write(JSON.stringify(athlete));
+    }
+    const pct = (((i + 1) / total) * 100).toFixed(1);
+    process.stdout.write(`\r${pct}% (${i + 1}/${total})`);
   }
-  const pct = (((i + 1) / total) * 100).toFixed(1);
-  process.stdout.write(`\r${pct}% (${i + 1}/${total})`);
+
+  out.write(']');
+  out.end();
+  await finished(out);
+  console.log();
 }
 
-out.write(']');
-out.end();
-await finished(out);
-console.log();
+export async function listAthletes() {
+  const athletes = JSON.parse(await readFile(OUTPUT, 'utf8'));
+  for (const athlete of athletes) {
+    const club = athlete.club ? ` (${athlete.club})` : '';
+    console.log(`${athlete.name}${club}`);
+  }
+}
