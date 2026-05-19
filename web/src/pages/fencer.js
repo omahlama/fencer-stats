@@ -1,6 +1,32 @@
 import { athleteSlug } from '../slug.js';
 import { findAthlete, loadMatches } from '../data.js';
 
+function opponentKey(match) {
+  return match.opponentUrl ?? match.opponent;
+}
+
+function opponentDisplayName(match) {
+  if (match.opponentUrl) {
+    const athlete = findAthlete(athleteSlug(match.opponentUrl));
+    if (athlete) return athlete.name;
+  }
+  return match.opponent.replace(/\s*\([^)]+\)\s*$/, '').trim();
+}
+
+function buildOpponentStats(matches) {
+  const stats = new Map();
+  for (const match of matches) {
+    const key = opponentKey(match);
+    if (!stats.has(key)) {
+      stats.set(key, { key, name: opponentDisplayName(match), wins: 0, total: 0 });
+    }
+    const entry = stats.get(key);
+    entry.total++;
+    if (match.win) entry.wins++;
+  }
+  return [...stats.values()].sort((a, b) => a.name.localeCompare(b.name));
+}
+
 function opponentLink(opponentUrl, opponent) {
   if (!opponentUrl) return opponent;
   const slug = athleteSlug(opponentUrl);
@@ -68,6 +94,31 @@ export async function renderFencerPage(root, slug) {
 
     loading.remove();
 
+    const opponentStats = buildOpponentStats(matches);
+    let selectedOpponent = '';
+
+    const filters = document.createElement('div');
+    filters.className = 'filters';
+    filters.innerHTML = `
+      <label>
+        Opponent
+        <select id="opponent-filter">
+          <option value="">All opponents</option>
+        </select>
+      </label>
+    `;
+
+    const opponentSelect = filters.querySelector('#opponent-filter');
+    for (const { key, name, wins, total } of opponentStats) {
+      const opt = document.createElement('option');
+      opt.value = key;
+      opt.textContent = `${name} (${wins} / ${total})`;
+      opponentSelect.appendChild(opt);
+    }
+
+    const summary = document.createElement('p');
+    summary.className = 'result-count';
+
     const table = document.createElement('table');
     table.className = 'match-table';
     table.innerHTML = `
@@ -85,12 +136,23 @@ export async function renderFencerPage(root, slug) {
     `;
 
     const tbody = table.querySelector('tbody');
-    tbody.replaceChildren(...matches.map(renderMatchRow));
 
-    const summary = document.createElement('p');
-    summary.className = 'result-count';
-    summary.textContent = `${matches.length} match${matches.length === 1 ? '' : 'es'}`;
+    const update = () => {
+      const filtered = selectedOpponent
+        ? matches.filter((m) => opponentKey(m) === selectedOpponent)
+        : matches;
+      tbody.replaceChildren(...filtered.map(renderMatchRow));
+      summary.textContent = `${filtered.length} match${filtered.length === 1 ? '' : 'es'}`;
+    };
 
+    opponentSelect.addEventListener('change', () => {
+      selectedOpponent = opponentSelect.value;
+      update();
+    });
+
+    update();
+
+    root.appendChild(filters);
     root.appendChild(summary);
     root.appendChild(table);
   } catch (err) {
