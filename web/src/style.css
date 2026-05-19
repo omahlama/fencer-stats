@@ -155,14 +155,39 @@ body {
   border-bottom: none;
 }
 
-.match-table tr.win td:nth-child(5) {
+.match-table tr.win td:nth-child(6) {
   color: #15803d;
   font-weight: 600;
 }
 
-.match-table tr.loss td:nth-child(5) {
+.match-table tr.loss td:nth-child(6) {
   color: #b91c1c;
   font-weight: 600;
+}
+
+.match-table th:first-child,
+.stage-cell {
+  min-width: 10px;
+  width: 1%;
+  padding-left: 0.35rem;
+  padding-right: 0.35rem;
+}
+
+td.stage-cell {
+  font-size: 0.8rem;
+  font-weight: 600;
+  white-space: nowrap;
+  text-align: center;
+  vertical-align: middle;
+  color: #fff;
+}
+
+.competition-row td {
+  background: #eef2ff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #3730a3;
+  border-bottom: 1px solid #c7d2fe;
 }
 
 .match-table a {
