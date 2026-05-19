@@ -1,7 +1,7 @@
 import { createReadStream, existsSync } from 'fs';
 import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
-import { defineConfig } from 'vite';
+import { defineConfig, normalizePath } from 'vite';
 import { viteStaticCopy } from 'vite-plugin-static-copy';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -29,7 +29,10 @@ export default defineConfig({
   plugins: [
     serveDataPlugin(),
     viteStaticCopy({
-      targets: [{ src: '../data/**/*', dest: 'data' }],
+      targets: [
+        { src: normalizePath('../data/athletes.json'), dest: '.' },
+        { src: normalizePath('../data/matches/*'), dest: '.' },
+      ],
     }),
   ],
   server: {
