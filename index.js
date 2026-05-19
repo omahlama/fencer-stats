@@ -7,7 +7,7 @@ import { fetchAllMatches, fetchMatches, cleanupMatches, listMatches } from './fe
 const program = new Command();
 
 program
-  .name('ophardt-crawler')
+  .name('fencer-stats')
   .description('Crawl Finnish fencing data from Ophardt')
   .version('0.0.1');
 

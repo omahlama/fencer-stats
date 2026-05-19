@@ -1,5 +1,5 @@
 {
-  "name": "ophardt-crawler",
+  "name": "fencer-stats",
   "version": "0.0.1",
   "description": "",
   "license": "ISC",
@@ -7,7 +7,7 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "ophardt-crawler": "./index.js"
+    "fencer-stats": "./index.js"
   },
   "scripts": {
     "dev": "vite --config web/vite.config.js",
