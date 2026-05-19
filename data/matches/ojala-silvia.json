@@ -1,0 +1,93 @@
+[
+  {
+    "date": "10/27/24",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U11 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A8",
+    "opponent": "ZÕKOVA Anastassia (EST)",
+    "opponentUrl": "/en/biography/athlete/zokova-anastassia",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "10/27/24",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U11 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "HENTONEN Saaga (FIN)",
+    "opponentUrl": "/en/biography/athlete/hentonen-saaga",
+    "win": true,
+    "scoreOwn": 10,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "10/27/24",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "POUSI Eelis (FIN)",
+    "opponentUrl": "/en/biography/athlete/pousi-eelis",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "10/27/24",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "MAHLAMÄKI Eero (FIN)",
+    "opponentUrl": "/en/biography/athlete/mahlamaki-eero",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "10/27/24",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VATSENKO Aleksei (EST)",
+    "opponentUrl": "/en/biography/athlete/vatsenko-aleksei",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/27/24",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LAHIKAINEN Eino (FIN)",
+    "opponentUrl": "/en/biography/athlete/lahikainen-eino",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "10/27/24",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ZÕKOVA Anastassia (EST)",
+    "opponentUrl": "/en/biography/athlete/zokova-anastassia",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "date": "5/21/22",
+    "event": "Finnish Championships, Hyvinkää FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "WETHERILL Hilla (FIN)",
+    "opponentUrl": "/en/biography/athlete/wetherill-hilla",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/21/22",
+    "event": "Finnish Championships, Hyvinkää FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "RITAKALLIO Rilla (FIN)",
+    "opponentUrl": "/en/biography/athlete/ritakallio-rilla",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/21/22",
+    "event": "Finnish Championships, Hyvinkää FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SALMINEN Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/89767",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/21/22",
+    "event": "Finnish Championships, Hyvinkää FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HÄMÄLÄINEN Emma (FIN)",
+    "opponentUrl": "/en/biography/athlete/hamalainen-emma",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/21/22",
+    "event": "Finnish Championships, Hyvinkää FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEINÄMAA Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/319704",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/21/22",
+    "event": "Finnish Championships, Hyvinkää FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HALMINEN Saskia (FIN)",
+    "opponentUrl": "/en/biography/athlete/332479",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

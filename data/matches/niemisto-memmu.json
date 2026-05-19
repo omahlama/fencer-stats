@@ -1,0 +1,67 @@
+[
+  {
+    "date": "4/27/24",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "SURENKIN Sunya (FIN)",
+    "opponentUrl": "/en/biography/athlete/surenkin-sunya",
+    "win": false,
+    "scoreOwn": 7,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "4/27/24",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "ZOBIN Gordei (EST)",
+    "opponentUrl": "/en/biography/athlete/zobin-gordei",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/24",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "ZOKOV Maksimilian (EST)",
+    "opponentUrl": "/en/biography/athlete/zokov-maksimilian",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/24",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "VATSENKO Aleksei (EST)",
+    "opponentUrl": "/en/biography/athlete/vatsenko-aleksei",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/24",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SURENKIN Sunya (FIN)",
+    "opponentUrl": "/en/biography/athlete/surenkin-sunya",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

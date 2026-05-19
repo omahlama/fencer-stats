@@ -1,0 +1,80 @@
+[
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "PALLASVESA Inka (FIN)",
+    "opponentUrl": "/en/biography/athlete/319738",
+    "win": false,
+    "scoreOwn": 12,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TERHO Liisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/319794",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "MIKHAILOVA Ilona (FIN)",
+    "opponentUrl": "/en/biography/athlete/395065",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SOHLBERG Oona (FIN)",
+    "opponentUrl": "/en/biography/athlete/340979",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HEISKARI Vilhelmiina (FIN)",
+    "opponentUrl": "/en/biography/athlete/344485",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "IKONEN Aino (FIN)",
+    "opponentUrl": "/en/biography/athlete/ikonen-aino",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  }
+]

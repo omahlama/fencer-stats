@@ -1,0 +1,80 @@
+[
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Foil Women's V40 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A8",
+    "opponent": "KAHILA Satu (FIN)",
+    "opponentUrl": "/en/biography/athlete/353021",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Foil Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SUVANTOLA Leila (FIN)",
+    "opponentUrl": "/en/biography/athlete/12990",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Foil Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KAHILA Satu (FIN)",
+    "opponentUrl": "/en/biography/athlete/353021",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Foil Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HALINEN Anna-Maija (FIN)",
+    "opponentUrl": "/en/biography/athlete/377848",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Foil Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SOMEROJA Marja-Liisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/23692",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Foil Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TALLROTH-KOCK Lena (FIN)",
+    "opponentUrl": "/en/biography/athlete/1911",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

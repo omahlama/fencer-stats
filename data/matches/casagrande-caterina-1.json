@@ -1,0 +1,93 @@
+[
+  {
+    "date": "10/9/21",
+    "event": "Kupittaa Tournament, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "VASSILJEVA Karina (EST)",
+    "opponentUrl": "/en/biography/athlete/393248",
+    "win": false,
+    "scoreOwn": 8,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "10/9/21",
+    "event": "Kupittaa Tournament, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SENNERLIN HOLM Engla (SWE)",
+    "opponentUrl": "/en/biography/athlete/346147",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/9/21",
+    "event": "Kupittaa Tournament, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SALM Gaia-Marianna (EST)",
+    "opponentUrl": "/en/biography/athlete/93228",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/9/21",
+    "event": "Kupittaa Tournament, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "GRABOVSKYTE Lurde (LTU)",
+    "opponentUrl": "/en/biography/athlete/345586",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/9/21",
+    "event": "Kupittaa Tournament, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TAURIAINEN Sofia (FIN)",
+    "opponentUrl": "/en/biography/athlete/121976",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/9/21",
+    "event": "Kupittaa Tournament, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "NISKALA Viena (FIN)",
+    "opponentUrl": "/en/biography/athlete/360090",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/9/21",
+    "event": "Kupittaa Tournament, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KUUSK Kristina (EST)",
+    "opponentUrl": "/en/biography/athlete/22153",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

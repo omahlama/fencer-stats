@@ -1,0 +1,41 @@
+[
+  {
+    "date": "1/19/19",
+    "event": "Masters osakilpailu 3, Tampere FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VEHVILÄINEN Vilma (FIN)",
+    "opponentUrl": "/en/biography/athlete/333889",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/19/19",
+    "event": "Masters osakilpailu 3, Tampere FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HOFFREN Helmi (FIN)",
+    "opponentUrl": "/en/biography/athlete/375076",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/19/19",
+    "event": "Masters osakilpailu 3, Tampere FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LUNDELL Moa Ruut Maleena (FIN)",
+    "opponentUrl": "/en/biography/athlete/lundell-moa-ruut-maleena",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

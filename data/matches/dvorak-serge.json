@@ -1,0 +1,80 @@
+[
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "KUHTA Marko (FIN)",
+    "opponentUrl": "/en/biography/athlete/323207",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "AFANASSIEV Igor (FIN)",
+    "opponentUrl": "/en/biography/athlete/377678",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "LEIVA Johannes (FIN)",
+    "opponentUrl": "/en/biography/athlete/leiva-johannes",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "GRÄSBECK Gunnar (FIN)",
+    "opponentUrl": "/en/biography/athlete/53395",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "SALMENPOHJA Tuomas (FIN)",
+    "opponentUrl": "/en/biography/athlete/salmenpohja-tuomas",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "PELTONEN Risto (FIN)",
+    "opponentUrl": "/en/biography/athlete/peltonen-risto",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

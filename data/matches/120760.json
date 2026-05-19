@@ -1,0 +1,93 @@
+[
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "NEERGAARD Axel (FIN)",
+    "opponentUrl": "/en/biography/athlete/312023",
+    "win": false,
+    "scoreOwn": 12,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "OLSEN Johannes Kristian (DEN)",
+    "opponentUrl": "/en/biography/athlete/307391",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "HANSTEIN Meelis (EST)",
+    "opponentUrl": "/en/biography/athlete/122517",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "HJORVARD Lukas (SWE)",
+    "opponentUrl": "/en/biography/athlete/70342",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "ERIKSEN Kai Haakon (NOR)",
+    "opponentUrl": "/en/biography/athlete/91759",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "RAUTAM Carl Jürgen (EST)",
+    "opponentUrl": "/en/biography/athlete/307939",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "JOKINEN Simon (SWE)",
+    "opponentUrl": "/en/biography/athlete/70293",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "date": "5/25/19",
+    "event": "Säilän SM-kilpailut, Porvoo FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "RICCI Stefano (FIN)",
+    "opponentUrl": "/en/biography/athlete/384212",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/19",
+    "event": "Säilän SM-kilpailut, Porvoo FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VUENTO Sami (FIN)",
+    "opponentUrl": "/en/biography/athlete/387923",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/19",
+    "event": "Säilän SM-kilpailut, Porvoo FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "MAHLAMÄKI Olli (FIN)",
+    "opponentUrl": "/en/biography/athlete/21758",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "5/25/19",
+    "event": "Säilän SM-kilpailut, Porvoo FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ROMAN Mika (FIN)",
+    "opponentUrl": "/en/biography/athlete/12008",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/19",
+    "event": "Säilän SM-kilpailut, Porvoo FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SUNDSTRÖM Filip (FIN)",
+    "opponentUrl": "/en/biography/athlete/400405",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

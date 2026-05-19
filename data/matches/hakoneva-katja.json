@@ -1,0 +1,80 @@
+[
+  {
+    "date": "9/28/24",
+    "event": "Nils Sjöblom Memorial + Team Tournament, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "LEHTONEN Ritva-Leena (FIN)",
+    "opponentUrl": "/en/biography/athlete/53109",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/28/24",
+    "event": "Nils Sjöblom Memorial + Team Tournament, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "PAK Sonja (FIN)",
+    "opponentUrl": "/en/biography/athlete/pak-sonja",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/28/24",
+    "event": "Nils Sjöblom Memorial + Team Tournament, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "ANDERSSON Elin (FIN)",
+    "opponentUrl": "/en/biography/athlete/383740",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/28/24",
+    "event": "Nils Sjöblom Memorial + Team Tournament, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TUOMINEN Maija (FIN)",
+    "opponentUrl": "/en/biography/athlete/319852",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/28/24",
+    "event": "Nils Sjöblom Memorial + Team Tournament, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "VUORINEN Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/319697",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/28/24",
+    "event": "Nils Sjöblom Memorial + Team Tournament, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "ERIKSSON Liisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/eriksson-liisa",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

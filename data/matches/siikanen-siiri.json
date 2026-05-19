@@ -1,0 +1,80 @@
+[
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "SARASTO Ruut (FIN)",
+    "opponentUrl": "/en/biography/athlete/sarasto-ruut",
+    "win": false,
+    "scoreOwn": 14,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "LILLEPUU Maria (EST)",
+    "opponentUrl": "/en/biography/athlete/lillepuu-maria",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KOSUNEN Elsa (FIN)",
+    "opponentUrl": "/en/biography/athlete/kosunen-elsa",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TYNKKYNEN Isabella (FIN)",
+    "opponentUrl": "/en/biography/athlete/tynkkynen-isabella",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 0
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "GIOMI Isabella (EST)",
+    "opponentUrl": "/en/biography/athlete/giomi-isabella",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TUOMINEN Senja (FIN)",
+    "opponentUrl": "/en/biography/athlete/tuominen-senja",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

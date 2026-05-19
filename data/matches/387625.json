@@ -1,0 +1,80 @@
+[
+  {
+    "date": "1/26/19",
+    "event": "Espoo Fencing Challenge, Espoo (Helsinki) FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "15",
+    "opponent": "LAASIK Oliver (EST)",
+    "opponentUrl": "/en/biography/athlete/357617",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/26/19",
+    "event": "Espoo Fencing Challenge, Espoo (Helsinki) FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "15",
+    "opponent": "KELLY Christopher (SWE)",
+    "opponentUrl": "/en/biography/athlete/307634",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/26/19",
+    "event": "Espoo Fencing Challenge, Espoo (Helsinki) FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "15",
+    "opponent": "KAMSTRA Leo (GBR)",
+    "opponentUrl": "/en/biography/athlete/389704",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/26/19",
+    "event": "Espoo Fencing Challenge, Espoo (Helsinki) FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "15",
+    "opponent": "HUNG Siu Lung Trillion (HKG)",
+    "opponentUrl": "/en/biography/athlete/hung-siu-lung-trillion",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/26/19",
+    "event": "Espoo Fencing Challenge, Espoo (Helsinki) FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "15",
+    "opponent": "SONNLEITNER Thomas (AUT)",
+    "opponentUrl": "/en/biography/athlete/340689",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "1/26/19",
+    "event": "Espoo Fencing Challenge, Espoo (Helsinki) FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "15",
+    "opponent": "SCOPPA Bruno (ITA)",
+    "opponentUrl": "/en/biography/athlete/377276",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

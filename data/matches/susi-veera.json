@@ -1,0 +1,80 @@
+[
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "AHOLA Kerttu (FIN)",
+    "opponentUrl": "/en/biography/athlete/ahola-kerttu",
+    "win": false,
+    "scoreOwn": 9,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "SANTAVIRTA Lisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/santavirta-lisa",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "UUSIKIVI Luukas (FIN)",
+    "opponentUrl": "/en/biography/athlete/uusikivi-luukas",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "PELTOMÄKI Viljami (FIN)",
+    "opponentUrl": "/en/biography/athlete/peltomaki-viljami",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "UURTAMO Vertti (FIN)",
+    "opponentUrl": "/en/biography/athlete/uurtamo-vertti",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KOSUNEN Elsa (FIN)",
+    "opponentUrl": "/en/biography/athlete/kosunen-elsa",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

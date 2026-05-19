@@ -1,0 +1,41 @@
+[
+  {
+    "date": "11/3/18",
+    "event": "YM Juhlakisa, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "HUOVILAINEN Tatu (FIN)",
+    "opponentUrl": "/en/biography/athlete/328016",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "11/3/18",
+    "event": "YM Juhlakisa, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "WAHTERA Tuukka (FIN)",
+    "opponentUrl": "/en/biography/athlete/319724",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/3/18",
+    "event": "YM Juhlakisa, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "YLITERVO Santeri (FIN)",
+    "opponentUrl": "/en/biography/athlete/333147",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

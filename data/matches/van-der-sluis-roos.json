@@ -1,0 +1,80 @@
+[
+  {
+    "date": "4/23/22",
+    "event": "Finnish U17 and U20 Epee Championships and minijunior Tournament, Savonlinna FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "KUSRATI Milana (FIN)",
+    "opponentUrl": "/en/biography/athlete/kusrati-milana",
+    "win": false,
+    "scoreOwn": 5,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "4/23/22",
+    "event": "Finnish U17 and U20 Epee Championships and minijunior Tournament, Savonlinna FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PALLASVESA Inka (FIN)",
+    "opponentUrl": "/en/biography/athlete/319738",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/23/22",
+    "event": "Finnish U17 and U20 Epee Championships and minijunior Tournament, Savonlinna FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SAVOLA Iisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/399576",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/23/22",
+    "event": "Finnish U17 and U20 Epee Championships and minijunior Tournament, Savonlinna FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TEGELBERG Etti (FIN)",
+    "opponentUrl": "/en/biography/athlete/tegelberg-etti",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/23/22",
+    "event": "Finnish U17 and U20 Epee Championships and minijunior Tournament, Savonlinna FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "OJALA Minea (FIN)",
+    "opponentUrl": "/en/biography/athlete/ojala-minea",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/23/22",
+    "event": "Finnish U17 and U20 Epee Championships and minijunior Tournament, Savonlinna FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SHEVCHENKO Vasilisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/shevchenko-vasilisa-1",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

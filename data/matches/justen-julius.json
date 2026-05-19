@@ -1,0 +1,80 @@
+[
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HESSO Heikki (FIN)",
+    "opponentUrl": "/en/biography/athlete/hesso-heikki",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KOKKI Alma (FIN)",
+    "opponentUrl": "/en/biography/athlete/kokki-alma",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VOJEVODIN Artemi (EST)",
+    "opponentUrl": "/en/biography/athlete/vojevodin-artemi",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KRUPENIN Fjodor (EST)",
+    "opponentUrl": "/en/biography/athlete/krupenin-fjodor-1",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "BOBROVA Jevgenia (EST)",
+    "opponentUrl": "/en/biography/athlete/bobrova-jevgenia",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "RUOTSALAINEN Tommi (FIN)",
+    "opponentUrl": "/en/biography/athlete/ruotsalainen-tommi",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

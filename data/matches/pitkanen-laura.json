@@ -1,0 +1,67 @@
+[
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KORNEEVA Alisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/korneeva-alisa",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HÄMÄLÄINEN Emma (FIN)",
+    "opponentUrl": "/en/biography/athlete/hamalainen-emma",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "MACAPOBRE Patricia Nicole (FIN)",
+    "opponentUrl": "/en/biography/athlete/macapobre-patricia-nicole",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TUOMINEN Maija (FIN)",
+    "opponentUrl": "/en/biography/athlete/319852",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "JUNTUNEN Iida (FIN)",
+    "opponentUrl": "/en/biography/athlete/juntunen-iida",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

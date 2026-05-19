@@ -1,0 +1,93 @@
+[
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "HOLMA Joel (FIN)",
+    "opponentUrl": "/en/biography/athlete/holma-joel",
+    "win": false,
+    "scoreOwn": 7,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "7",
+    "opponent": "HESSO Antti (FIN)",
+    "opponentUrl": "/en/biography/athlete/hesso-antti",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "7",
+    "opponent": "SAHI Leo (FIN)",
+    "opponentUrl": "/en/biography/athlete/sahi-leo",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "7",
+    "opponent": "KABULOV Atsamaz (FIN)",
+    "opponentUrl": "/en/biography/athlete/kabulov-atsamaz",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "7",
+    "opponent": "REZNICHENKO Alexander (FIN)",
+    "opponentUrl": "/en/biography/athlete/378983",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "7",
+    "opponent": "LAURÉN Linus (FIN)",
+    "opponentUrl": "/en/biography/athlete/340631",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "7",
+    "opponent": "BROTKIN Matias (FIN)",
+    "opponentUrl": "/en/biography/athlete/brotkin-matias",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  }
+]

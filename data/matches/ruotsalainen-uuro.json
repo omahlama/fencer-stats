@@ -1,0 +1,67 @@
+[
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "RUOTSALAINEN Tommi (FIN)",
+    "opponentUrl": "/en/biography/athlete/ruotsalainen-tommi",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "VARIS Erik (EST)",
+    "opponentUrl": "/en/biography/athlete/varis-erik",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "RUOTSALAINEN Tommi (FIN)",
+    "opponentUrl": "/en/biography/athlete/ruotsalainen-tommi",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "LEHTO Miio (FIN)",
+    "opponentUrl": "/en/biography/athlete/lehto-miio",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "KONSAP Alex (EST)",
+    "opponentUrl": "/en/biography/athlete/konsap-alex",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

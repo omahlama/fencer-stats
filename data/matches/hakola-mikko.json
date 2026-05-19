@@ -1,0 +1,80 @@
+[
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "MIETTINEN Sami (FIN)",
+    "opponentUrl": "/en/biography/athlete/14899",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "GRÄSBECK Gunnar (FIN)",
+    "opponentUrl": "/en/biography/athlete/53395",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "AJO Petri (FIN)",
+    "opponentUrl": "/en/biography/athlete/ajo-petri",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 0
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "SCHLIZEWSKI Neeo (FIN)",
+    "opponentUrl": "/en/biography/athlete/schlizewski-neeo",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "REINIKAINEN Aarni (FIN)",
+    "opponentUrl": "/en/biography/athlete/reinikainen-aarni",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "HOLMA Joel (FIN)",
+    "opponentUrl": "/en/biography/athlete/holma-joel",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Epee Men's V40 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A8",
+    "opponent": "PARIKKA Julius (FIN)",
+    "opponentUrl": "/en/biography/athlete/322954",
+    "win": false,
+    "scoreOwn": 6,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Epee Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PARIKKA Julius (FIN)",
+    "opponentUrl": "/en/biography/athlete/322954",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Epee Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "AFANASSIEV Igor (FIN)",
+    "opponentUrl": "/en/biography/athlete/377678",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Epee Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LAHTINEN Kai (FIN)",
+    "opponentUrl": "/en/biography/athlete/375170",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Epee Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LAHTI Tuure Taneli (FIN)",
+    "opponentUrl": "/en/biography/athlete/2769",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Epee Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HILTUNEN Jussi (FIN)",
+    "opponentUrl": "/en/biography/athlete/357954",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Epee Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ELONHEIMO Ville (FIN)",
+    "opponentUrl": "/en/biography/athlete/47121",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  }
+]

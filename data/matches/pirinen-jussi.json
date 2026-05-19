@@ -1,0 +1,93 @@
+[
+  {
+    "date": "12/9/23",
+    "event": "SM-kilpailut 2023 Veteraanit, Porvoo FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A8",
+    "opponent": "MAHLAMÄKI Olli (FIN)",
+    "opponentUrl": "/en/biography/athlete/21758",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "12/9/23",
+    "event": "SM-kilpailut 2023 Veteraanit, Porvoo FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "HOLLÄNDER Tero (FIN)",
+    "opponentUrl": "/en/biography/athlete/hollander-tero",
+    "win": true,
+    "scoreOwn": 10,
+    "scoreOpponent": 9
+  },
+  {
+    "date": "12/9/23",
+    "event": "SM-kilpailut 2023 Veteraanit, Porvoo FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "JUSLIN Henry (FIN)",
+    "opponentUrl": "/en/biography/athlete/306332",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "12/9/23",
+    "event": "SM-kilpailut 2023 Veteraanit, Porvoo FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LASANEN Mika (FIN)",
+    "opponentUrl": "/en/biography/athlete/lasanen-mika",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "12/9/23",
+    "event": "SM-kilpailut 2023 Veteraanit, Porvoo FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TAATILA Vesa (FIN)",
+    "opponentUrl": "/en/biography/athlete/taatila-vesa",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "12/9/23",
+    "event": "SM-kilpailut 2023 Veteraanit, Porvoo FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "NUUJA Kalle (FIN)",
+    "opponentUrl": "/en/biography/athlete/348706",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "12/9/23",
+    "event": "SM-kilpailut 2023 Veteraanit, Porvoo FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ROMAN Mika (FIN)",
+    "opponentUrl": "/en/biography/athlete/12008",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

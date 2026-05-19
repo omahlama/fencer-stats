@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2/8/20",
+    "event": "Floretin Suomen Cup -osakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "SINIOJA Aino (FIN)",
+    "opponentUrl": "/en/biography/athlete/sinioja-aino",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "2/8/20",
+    "event": "Floretin Suomen Cup -osakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HONKANEN Anniina (FIN)",
+    "opponentUrl": "/en/biography/athlete/349670",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/8/20",
+    "event": "Floretin Suomen Cup -osakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HEISKARI Vilhelmiina (FIN)",
+    "opponentUrl": "/en/biography/athlete/344485",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/8/20",
+    "event": "Floretin Suomen Cup -osakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SINIOJA Aino (FIN)",
+    "opponentUrl": "/en/biography/athlete/sinioja-aino",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/8/20",
+    "event": "Floretin Suomen Cup -osakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "ATAS Derya Dilara (FIN)",
+    "opponentUrl": "/en/biography/athlete/atas-derya-dilara",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/8/20",
+    "event": "Floretin Suomen Cup -osakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HALME Sini (FIN)",
+    "opponentUrl": "/en/biography/athlete/362208",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

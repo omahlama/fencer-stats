@@ -1,0 +1,93 @@
+[
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "PAAVOLAINEN Jaakko (FIN)",
+    "opponentUrl": "/en/biography/athlete/123757",
+    "win": false,
+    "scoreOwn": 10,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KINNUNEN Esapekka (FIN)",
+    "opponentUrl": "/en/biography/athlete/kinnunen-esapekka",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "AFANASSIEV Igor (FIN)",
+    "opponentUrl": "/en/biography/athlete/377678",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "SIHVONEN Juho (FIN)",
+    "opponentUrl": "/en/biography/athlete/sihvonen-juho",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "PAAVOLAINEN Väinö (FIN)",
+    "opponentUrl": "/en/biography/athlete/123758",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "LUMIJÄRVI Juha (FIN)",
+    "opponentUrl": "/en/biography/athlete/51386",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "VÄISTÖ Sami (FIN)",
+    "opponentUrl": "/en/biography/athlete/vaisto-sami",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  }
+]

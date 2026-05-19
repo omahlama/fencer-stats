@@ -1,0 +1,93 @@
+[
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "KIRPU Erika (EST)",
+    "opponentUrl": "/en/biography/athlete/47595",
+    "win": false,
+    "scoreOwn": 6,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "PETROVA Valerija (LAT)",
+    "opponentUrl": "/en/biography/athlete/307924",
+    "win": true,
+    "scoreOwn": 15,
+    "scoreOpponent": 12
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "11",
+    "opponent": "VORANG Kristel (EST)",
+    "opponentUrl": "/en/biography/athlete/122511",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 0
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "11",
+    "opponent": "KLAFSTAD Rikke (NOR)",
+    "opponentUrl": "/en/biography/athlete/38208",
+    "win": true,
+    "scoreOwn": 3,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "11",
+    "opponent": "PALEVICIUTE Gabriele (LTU)",
+    "opponentUrl": "/en/biography/athlete/122363",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "11",
+    "opponent": "WILLEMO Josefine (SWE)",
+    "opponentUrl": "/en/biography/athlete/70051",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "11",
+    "opponent": "LEJON Viktoria (SWE)",
+    "opponentUrl": "/en/biography/athlete/55770",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "date": "4/16/23",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Men's U17 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A8",
+    "opponent": "SIBELIUS Etienne (FIN)",
+    "opponentUrl": "/en/biography/athlete/sibelius-etienne-1",
+    "win": false,
+    "scoreOwn": 6,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "4/16/23",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "RAATIKAINEN Teemu (FIN)",
+    "opponentUrl": "/en/biography/athlete/raatikainen-teemu",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/16/23",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SIBELIUS Etienne (FIN)",
+    "opponentUrl": "/en/biography/athlete/sibelius-etienne-1",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/16/23",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VOUTILAINEN Xander (FIN)",
+    "opponentUrl": "/en/biography/athlete/voutilainen-xander",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/16/23",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VILANDER Luka (FIN)",
+    "opponentUrl": "/en/biography/athlete/vilander-luka",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/16/23",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "CALLES TAPONEN Oscar (FIN)",
+    "opponentUrl": "/en/biography/athlete/calles-taponen-oscar",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/16/23",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HÖGMAN Eeli (FIN)",
+    "opponentUrl": "/en/biography/athlete/hogman-eeli-1",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

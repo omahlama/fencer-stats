@@ -1,0 +1,80 @@
+[
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "SALMINEN Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/89767",
+    "win": false,
+    "scoreOwn": 7,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "LEHTONEN Ritva-Leena (FIN)",
+    "opponentUrl": "/en/biography/athlete/53109",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "VORNANEN Johanna Anni-Maija (FIN)",
+    "opponentUrl": "/en/biography/athlete/vornanen-johanna-anni-maija",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "POLKKO Seija (FIN)",
+    "opponentUrl": "/en/biography/athlete/56889",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "SINIOJA Aino (FIN)",
+    "opponentUrl": "/en/biography/athlete/sinioja-aino",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "VEHVILÄINEN Vilma (FIN)",
+    "opponentUrl": "/en/biography/athlete/333889",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "date": "1/18/20",
+    "event": "Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Men's Veteran Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "PAAKKANEN Heikki (FIN)",
+    "opponentUrl": "/en/biography/athlete/paakkanen-heikki",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "1/18/20",
+    "event": "Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Men's Veteran Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PAHKALA Taneli (FIN)",
+    "opponentUrl": "/en/biography/athlete/319780",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/18/20",
+    "event": "Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Men's Veteran Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PAAKKANEN Heikki (FIN)",
+    "opponentUrl": "/en/biography/athlete/paakkanen-heikki",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/18/20",
+    "event": "Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Men's Veteran Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "RIMPILÄINEN Pekka (FIN)",
+    "opponentUrl": "/en/biography/athlete/319815",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/18/20",
+    "event": "Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Men's Veteran Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "AFANASSIEV Igor (FIN)",
+    "opponentUrl": "/en/biography/athlete/377678",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/18/20",
+    "event": "Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Men's Veteran Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SAARINEN Ilari (FIN)",
+    "opponentUrl": "/en/biography/athlete/50454",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/18/20",
+    "event": "Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Men's Veteran Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KOSKI Jussi (FIN)",
+    "opponentUrl": "/en/biography/athlete/328383",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

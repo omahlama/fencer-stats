@@ -1,0 +1,80 @@
+[
+  {
+    "date": "5/9/26",
+    "event": "Hellenic Championships, PAIANIA GRE",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KAMPYLI Alexandra (GRE)",
+    "opponentUrl": "/en/biography/athlete/kampyli-alexandra",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "5/9/26",
+    "event": "Hellenic Championships, PAIANIA GRE",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KAKETSI Eirini (GRE)",
+    "opponentUrl": "/en/biography/athlete/kaketsi-eirini",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/9/26",
+    "event": "Hellenic Championships, PAIANIA GRE",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PAPADOPOULOU Lydia Sofia (GRE)",
+    "opponentUrl": "/en/biography/athlete/390627",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/9/26",
+    "event": "Hellenic Championships, PAIANIA GRE",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "CHATZISARANTOU Nikoletta (GRE)",
+    "opponentUrl": "/en/biography/athlete/364857",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/9/26",
+    "event": "Hellenic Championships, PAIANIA GRE",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TANTSOPOULOU Pavlina (GRE)",
+    "opponentUrl": "/en/biography/athlete/382365",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/9/26",
+    "event": "Hellenic Championships, PAIANIA GRE",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SYLLIGNAKI Anna (GRE)",
+    "opponentUrl": "/en/biography/athlete/syllignaki-anna",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

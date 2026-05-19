@@ -1,0 +1,67 @@
+[
+  {
+    "date": "11/6/21",
+    "event": "Kuutti Cup, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ROUSSEAU Felix (FIN)",
+    "opponentUrl": "/en/biography/athlete/rousseau-felix-1",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "11/6/21",
+    "event": "Kuutti Cup, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SHMIDT Elisabeth (FIN)",
+    "opponentUrl": "/en/biography/athlete/shmidt-elisabeth",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/6/21",
+    "event": "Kuutti Cup, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SHMIDT Elisabeth (FIN)",
+    "opponentUrl": "/en/biography/athlete/shmidt-elisabeth",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/6/21",
+    "event": "Kuutti Cup, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ROUSSEAU Felix (FIN)",
+    "opponentUrl": "/en/biography/athlete/rousseau-felix-1",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "11/6/21",
+    "event": "Kuutti Cup, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ROUSSEAU Felix (FIN)",
+    "opponentUrl": "/en/biography/athlete/rousseau-felix-1",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  }
+]

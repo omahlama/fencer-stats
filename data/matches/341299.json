@@ -1,0 +1,80 @@
+[
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "TAURIAINEN Topias (FIN)",
+    "opponentUrl": "/en/biography/athlete/123632",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "KUVAJA Ville (FIN)",
+    "opponentUrl": "/en/biography/athlete/34122",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "TERHO Markku (FIN)",
+    "opponentUrl": "/en/biography/athlete/319795",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "PANELIUS Rufus (FIN)",
+    "opponentUrl": "/en/biography/athlete/306173",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "RANTALA Einar (FIN)",
+    "opponentUrl": "/en/biography/athlete/rantala-einar",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "BJÖRKMAN Aku (FIN)",
+    "opponentUrl": "/en/biography/athlete/bjorkman-aku",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

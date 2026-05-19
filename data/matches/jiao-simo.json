@@ -1,0 +1,93 @@
+[
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "KONSAP Alex (EST)",
+    "opponentUrl": "/en/biography/athlete/konsap-alex",
+    "win": false,
+    "scoreOwn": 5,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "HESSO Heikki (FIN)",
+    "opponentUrl": "/en/biography/athlete/hesso-heikki",
+    "win": true,
+    "scoreOwn": 15,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "HU Simo (FIN)",
+    "opponentUrl": "/en/biography/athlete/hu-simo",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "LAVRENTJEV Lev (EST)",
+    "opponentUrl": "/en/biography/athlete/lavrentjev-lev",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "SNITSARENKO Sebastian (EST)",
+    "opponentUrl": "/en/biography/athlete/snitsarenko-sebastian",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "MULLARI Lennart (EST)",
+    "opponentUrl": "/en/biography/athlete/mullari-lennart",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 0
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "UUSIKIVI Luukas (FIN)",
+    "opponentUrl": "/en/biography/athlete/uusikivi-luukas",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 4
+  }
+]

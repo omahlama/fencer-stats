@@ -1,0 +1,80 @@
+[
+  {
+    "date": "7/9/21",
+    "event": "Asinsaarien Juniorikilpailut, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A2",
+    "opponent": "SAHI Leo (FIN)",
+    "opponentUrl": "/en/biography/athlete/sahi-leo",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "7/9/21",
+    "event": "Asinsaarien Juniorikilpailut, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A4",
+    "opponent": "SANDSTRÖM Ines (FIN)",
+    "opponentUrl": "/en/biography/athlete/sandstrom-ines",
+    "win": true,
+    "scoreOwn": 10,
+    "scoreOpponent": 6
+  },
+  {
+    "date": "7/9/21",
+    "event": "Asinsaarien Juniorikilpailut, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SAHI Leo (FIN)",
+    "opponentUrl": "/en/biography/athlete/sahi-leo",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "7/9/21",
+    "event": "Asinsaarien Juniorikilpailut, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SANDSTRÖM Ines (FIN)",
+    "opponentUrl": "/en/biography/athlete/sandstrom-ines",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "7/9/21",
+    "event": "Asinsaarien Juniorikilpailut, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HYYPPÄ Ronja (FIN)",
+    "opponentUrl": "/en/biography/athlete/hyyppa-ronja",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "7/9/21",
+    "event": "Asinsaarien Juniorikilpailut, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SARASTO Ruut (FIN)",
+    "opponentUrl": "/en/biography/athlete/sarasto-ruut",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEINÄMAA Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/319704",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TERHO Liisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/319794",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SINISALO Outi (FIN)",
+    "opponentUrl": "/en/biography/athlete/sinisalo-outi",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PALMERIO Leonie (GER)",
+    "opponentUrl": "/en/biography/athlete/palmerio-leonie",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SINIOJA Aino (FIN)",
+    "opponentUrl": "/en/biography/athlete/sinioja-aino",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "JAAKKOLA Outi (FIN)",
+    "opponentUrl": "/en/biography/athlete/319727",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

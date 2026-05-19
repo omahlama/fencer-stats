@@ -1,0 +1,28 @@
+[
+  {
+    "date": "11/10/18",
+    "event": "Kuutti Cup, Lappeenranta FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "MONTONEN Jaana (FIN)",
+    "opponentUrl": "/en/biography/athlete/357725",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/10/18",
+    "event": "Kuutti Cup, Lappeenranta FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SAIKKO Pinja (FIN)",
+    "opponentUrl": "/en/biography/athlete/342603",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

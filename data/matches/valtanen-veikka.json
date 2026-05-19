@@ -1,0 +1,80 @@
+[
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "MÜLLER Manuel (GER)",
+    "opponentUrl": "/en/biography/athlete/muller-manuel",
+    "win": false,
+    "scoreOwn": 5,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "HÄKKINEN Lassi (FIN)",
+    "opponentUrl": "/en/biography/athlete/hakkinen-lassi",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "TOKOLA Teemu (FIN)",
+    "opponentUrl": "/en/biography/athlete/37244",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KESKINIVA Arto (FIN)",
+    "opponentUrl": "/en/biography/athlete/306331",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KAIKKONEN Antti (FIN)",
+    "opponentUrl": "/en/biography/athlete/356077",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "WAHTERA Tuukka (FIN)",
+    "opponentUrl": "/en/biography/athlete/319724",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "HOLLÄNDER Anni (FIN)",
+    "opponentUrl": "/en/biography/athlete/hollander-anni",
+    "win": false,
+    "scoreOwn": 6,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "RASK Susanna (FIN)",
+    "opponentUrl": "/en/biography/athlete/rask-susanna",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "CAMPOMANES Lyra (FIN)",
+    "opponentUrl": "/en/biography/athlete/campomanes-lyra",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HALME Sini (FIN)",
+    "opponentUrl": "/en/biography/athlete/362208",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "VIRTANEN Viivi (FIN)",
+    "opponentUrl": "/en/biography/athlete/virtanen-viivi",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "RAULO Maija (FIN)",
+    "opponentUrl": "/en/biography/athlete/raulo-maija",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HOLLÄNDER Anni (FIN)",
+    "opponentUrl": "/en/biography/athlete/hollander-anni",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

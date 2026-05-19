@@ -1,0 +1,80 @@
+[
+  {
+    "date": "11/23/19",
+    "event": "International Cup U14, Thessaloniki GRE",
+    "discipline": "Epee Men's U14 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "DELIDIMITRIOU Athanasios (GRE)",
+    "opponentUrl": "/en/biography/athlete/388124",
+    "win": false,
+    "scoreOwn": 14,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "11/23/19",
+    "event": "International Cup U14, Thessaloniki GRE",
+    "discipline": "Epee Men's U14 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "MINOS Fotios (GRE)",
+    "opponentUrl": "/en/biography/athlete/388272",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "11/23/19",
+    "event": "International Cup U14, Thessaloniki GRE",
+    "discipline": "Epee Men's U14 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "FOUKAS Vasileios (GRE)",
+    "opponentUrl": "/en/biography/athlete/379674",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/23/19",
+    "event": "International Cup U14, Thessaloniki GRE",
+    "discipline": "Epee Men's U14 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "GEORGOULAS Ioannis (GRE)",
+    "opponentUrl": "/en/biography/athlete/399208",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/23/19",
+    "event": "International Cup U14, Thessaloniki GRE",
+    "discipline": "Epee Men's U14 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "DELIDIMITRIOU Athanasios (GRE)",
+    "opponentUrl": "/en/biography/athlete/388124",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "11/23/19",
+    "event": "International Cup U14, Thessaloniki GRE",
+    "discipline": "Epee Men's U14 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "SARAFIDIS Thomas (GRE)",
+    "opponentUrl": "/en/biography/athlete/386331",
+    "win": true,
+    "scoreOwn": 4,
+    "scoreOpponent": 2
+  }
+]

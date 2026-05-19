@@ -1,0 +1,67 @@
+[
+  {
+    "date": "6/11/22",
+    "event": "Saber and Foil Tournament, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "HEISKARI Ilmari (FIN)",
+    "opponentUrl": "/en/biography/athlete/332475",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "6/11/22",
+    "event": "Saber and Foil Tournament, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "WAHTERA Tuukka (FIN)",
+    "opponentUrl": "/en/biography/athlete/319724",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "6/11/22",
+    "event": "Saber and Foil Tournament, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KOLOSOV Aleksandr (FIN)",
+    "opponentUrl": "/en/biography/athlete/kolosov-aleksandr",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "6/11/22",
+    "event": "Saber and Foil Tournament, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "HAARALA Ville (FIN)",
+    "opponentUrl": "/en/biography/athlete/321232",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "6/11/22",
+    "event": "Saber and Foil Tournament, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "HEISKARI Mika (FIN)",
+    "opponentUrl": "/en/biography/athlete/344486",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

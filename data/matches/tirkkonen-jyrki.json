@@ -1,0 +1,80 @@
+[
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "KARES Antti (FIN)",
+    "opponentUrl": "/en/biography/athlete/319802",
+    "win": false,
+    "scoreOwn": 9,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "ANDERSSON Hans (FIN)",
+    "opponentUrl": "/en/biography/athlete/319750",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "KABULOV George (FIN)",
+    "opponentUrl": "/en/biography/athlete/kabulov-george",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "MÄNNISTÖ Tomi (FIN)",
+    "opponentUrl": "/en/biography/athlete/mannisto-tomi",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "TERHO Jussi (FIN)",
+    "opponentUrl": "/en/biography/athlete/321019",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/6/23",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "6",
+    "opponent": "BROTKIN Matias (FIN)",
+    "opponentUrl": "/en/biography/athlete/brotkin-matias",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  }
+]

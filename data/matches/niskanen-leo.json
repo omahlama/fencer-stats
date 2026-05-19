@@ -1,0 +1,80 @@
+[
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A8",
+    "opponent": "OJANEN Joakim (FIN)",
+    "opponentUrl": "/en/biography/athlete/392873",
+    "win": false,
+    "scoreOwn": 9,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SEPPÄNEN Niklas (FIN)",
+    "opponentUrl": "/en/biography/athlete/seppanen-niklas",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "OJANEN Joakim (FIN)",
+    "opponentUrl": "/en/biography/athlete/392873",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SAHI Leo (FIN)",
+    "opponentUrl": "/en/biography/athlete/sahi-leo",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SCHLIZEWSKI Neeo (FIN)",
+    "opponentUrl": "/en/biography/athlete/schlizewski-neeo",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ROUSSEAU Felix (FIN)",
+    "opponentUrl": "/en/biography/athlete/rousseau-felix-1",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

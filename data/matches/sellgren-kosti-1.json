@@ -1,0 +1,80 @@
+[
+  {
+    "date": "10/23/21",
+    "event": "Nordic Championships, Espoo FIN",
+    "discipline": "Epee Men's U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "LAISILA Johannes (FIN)",
+    "opponentUrl": "/en/biography/athlete/laisila-johannes-1",
+    "win": false,
+    "scoreOwn": 8,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "10/23/21",
+    "event": "Nordic Championships, Espoo FIN",
+    "discipline": "Epee Men's U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KOLOMIJEC Bogdan (EST)",
+    "opponentUrl": "/en/biography/athlete/kolomijec-bogdan",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/23/21",
+    "event": "Nordic Championships, Espoo FIN",
+    "discipline": "Epee Men's U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "OJANEN Joakim (FIN)",
+    "opponentUrl": "/en/biography/athlete/392873",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/23/21",
+    "event": "Nordic Championships, Espoo FIN",
+    "discipline": "Epee Men's U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "USMANOV Kamil (EST)",
+    "opponentUrl": "/en/biography/athlete/usmanov-kamil",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/23/21",
+    "event": "Nordic Championships, Espoo FIN",
+    "discipline": "Epee Men's U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HONKA Leo (FIN)",
+    "opponentUrl": "/en/biography/athlete/honka-leo-1",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/23/21",
+    "event": "Nordic Championships, Espoo FIN",
+    "discipline": "Epee Men's U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "EK Alexander (FIN)",
+    "opponentUrl": "/en/biography/athlete/ek-alexander-1",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

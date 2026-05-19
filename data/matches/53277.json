@@ -1,0 +1,80 @@
+[
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "MUTSENIK Stanislav (EST)",
+    "opponentUrl": "/en/biography/athlete/54138",
+    "win": false,
+    "scoreOwn": 10,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "13",
+    "opponent": "KOPRA Henri (EST)",
+    "opponentUrl": "/en/biography/athlete/307943",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "13",
+    "opponent": "SUPE Karlis (LAT)",
+    "opponentUrl": "/en/biography/athlete/90316",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "13",
+    "opponent": "JAHIMOVICS Andris (LAT)",
+    "opponentUrl": "/en/biography/athlete/316449",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "13",
+    "opponent": "ANDERSSON Edvin (SWE)",
+    "opponentUrl": "/en/biography/athlete/70006",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "13",
+    "opponent": "TÄNG Oskar (SWE)",
+    "opponentUrl": "/en/biography/athlete/145085",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  }
+]

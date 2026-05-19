@@ -1,0 +1,80 @@
+[
+  {
+    "date": "10/28/23",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A8",
+    "opponent": "BOBROVA Jevgenia (EST)",
+    "opponentUrl": "/en/biography/athlete/bobrova-jevgenia",
+    "win": false,
+    "scoreOwn": 6,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "10/28/23",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "RUOTSALAINEN Tommi (FIN)",
+    "opponentUrl": "/en/biography/athlete/ruotsalainen-tommi",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/28/23",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VOJEVODIN Artemi (EST)",
+    "opponentUrl": "/en/biography/athlete/vojevodin-artemi",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/28/23",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VARIS Erik (EST)",
+    "opponentUrl": "/en/biography/athlete/varis-erik",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/28/23",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "BOBROVA Jevgenia (EST)",
+    "opponentUrl": "/en/biography/athlete/bobrova-jevgenia",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/28/23",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VOJEVODIN Artemi (EST)",
+    "opponentUrl": "/en/biography/athlete/vojevodin-artemi",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

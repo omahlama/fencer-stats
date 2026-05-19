@@ -1,0 +1,93 @@
+[
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "SEPPÄNEN Niklas (FIN)",
+    "opponentUrl": "/en/biography/athlete/seppanen-niklas",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "BELIKOV Nikita (EST)",
+    "opponentUrl": "/en/biography/athlete/belikov-nikita",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "UURTAMO Vertti (FIN)",
+    "opponentUrl": "/en/biography/athlete/uurtamo-vertti",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "RUOTSALAINEN Tommi (FIN)",
+    "opponentUrl": "/en/biography/athlete/ruotsalainen-tommi",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ROUSSEAU Felix (FIN)",
+    "opponentUrl": "/en/biography/athlete/rousseau-felix-1",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HYYPPÄ Ronja (FIN)",
+    "opponentUrl": "/en/biography/athlete/hyyppa-ronja",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LESONEN Heta (FIN)",
+    "opponentUrl": "/en/biography/athlete/lesonen-heta",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  }
+]

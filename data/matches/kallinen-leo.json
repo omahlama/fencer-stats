@@ -1,0 +1,93 @@
+[
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "AAVIKKO Antti (FIN)",
+    "opponentUrl": "/en/biography/athlete/aavikko-antti",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TUOHINIEMI Mikko (FIN)",
+    "opponentUrl": "/en/biography/athlete/tuohiniemi-mikko",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "NUOTIO Tatu (FIN)",
+    "opponentUrl": "/en/biography/athlete/308999",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "RÄSÄNEN Tuomas (FIN)",
+    "opponentUrl": "/en/biography/athlete/rasanen-tuomas",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TAPAILA Axel (FIN)",
+    "opponentUrl": "/en/biography/athlete/tapaila-axel",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "AFANASSIEV Nikita (FIN)",
+    "opponentUrl": "/en/biography/athlete/375377",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PAAVOLAINEN Jaakko (FIN)",
+    "opponentUrl": "/en/biography/athlete/123757",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

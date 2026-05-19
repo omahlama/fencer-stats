@@ -1,0 +1,67 @@
+[
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A8",
+    "opponent": "KESKINIVA Arto (FIN)",
+    "opponentUrl": "/en/biography/athlete/306331",
+    "win": false,
+    "scoreOwn": 6,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HILTUNEN Jussi (FIN)",
+    "opponentUrl": "/en/biography/athlete/357954",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "JUSLIN Henry (FIN)",
+    "opponentUrl": "/en/biography/athlete/306332",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KESKINIVA Arto (FIN)",
+    "opponentUrl": "/en/biography/athlete/306331",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "11/24/18",
+    "event": "Veteraanien SM-kilpailut, Kuopio FIN",
+    "discipline": "Sabre Men's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEISKARI Mika (FIN)",
+    "opponentUrl": "/en/biography/athlete/344486",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

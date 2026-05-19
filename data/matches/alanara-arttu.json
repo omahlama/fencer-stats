@@ -1,0 +1,93 @@
+[
+  {
+    "date": "10/22/22",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "TOKOLA Teemu (FIN)",
+    "opponentUrl": "/en/biography/athlete/37244",
+    "win": false,
+    "scoreOwn": 6,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "10/22/22",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HILTUNEN Jussi (FIN)",
+    "opponentUrl": "/en/biography/athlete/357954",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/22/22",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "JÄRVELÄ Olli (FIN)",
+    "opponentUrl": "/en/biography/athlete/304766",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/22/22",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEISKARI Mika (FIN)",
+    "opponentUrl": "/en/biography/athlete/344486",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/22/22",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LUMIJÄRVI Juha (FIN)",
+    "opponentUrl": "/en/biography/athlete/51386",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/22/22",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEISKARI Ilmari (FIN)",
+    "opponentUrl": "/en/biography/athlete/332475",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/22/22",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "REPO Juho Oskari (FIN)",
+    "opponentUrl": "/en/biography/athlete/repo-juho-oskari",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

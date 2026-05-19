@@ -1,0 +1,93 @@
+[
+  {
+    "date": "11/15/25",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "KALLANKARI Joonas (FIN)",
+    "opponentUrl": "/en/biography/athlete/328013",
+    "win": false,
+    "scoreOwn": 5,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "11/15/25",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "MAHLAMÄKI Olli (FIN)",
+    "opponentUrl": "/en/biography/athlete/21758",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/15/25",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "REPO Juho Oskari (FIN)",
+    "opponentUrl": "/en/biography/athlete/repo-juho-oskari",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/15/25",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "JUNTTILA Oskari (FIN)",
+    "opponentUrl": "/en/biography/athlete/399367",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/15/25",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KIISKI Miikka (FIN)",
+    "opponentUrl": "/en/biography/athlete/kiiski-miikka",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/15/25",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "MÜLLER Manuel (GER)",
+    "opponentUrl": "/en/biography/athlete/muller-manuel",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/15/25",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "BENADOUDA Khalfa (FIN)",
+    "opponentUrl": "/en/biography/athlete/benadouda-khalfa",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

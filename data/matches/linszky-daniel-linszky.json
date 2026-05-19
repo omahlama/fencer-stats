@@ -1,0 +1,80 @@
+[
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "GORBATŠOVA Alisa (EST)",
+    "opponentUrl": "/en/biography/athlete/gorbatsova-alisa",
+    "win": false,
+    "scoreOwn": 9,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "GORBATŠOVA Alisa (EST)",
+    "opponentUrl": "/en/biography/athlete/gorbatsova-alisa",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "SUHONEN Liam (FIN)",
+    "opponentUrl": "/en/biography/athlete/suhonen-liam",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "MATIKAINEN Maija (FIN)",
+    "opponentUrl": "/en/biography/athlete/matikainen-maija",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "JAFANKINA Darina (EST)",
+    "opponentUrl": "/en/biography/athlete/jafankina-darina",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "SHEN Yichen (FIN)",
+    "opponentUrl": "/en/biography/athlete/shen-yichen",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

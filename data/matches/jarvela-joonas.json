@@ -1,0 +1,67 @@
+[
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A8",
+    "opponent": "ROINE Tuomas (FIN)",
+    "opponentUrl": "/en/biography/athlete/roine-tuomas",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "BILBAO Samuel (FIN)",
+    "opponentUrl": "/en/biography/athlete/bilbao-samuel-1",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SAUKKOLA Otto (FIN)",
+    "opponentUrl": "/en/biography/athlete/saukkola-otto",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "EPPERT August (FIN)",
+    "opponentUrl": "/en/biography/athlete/eppert-august",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ROINE Tuomas (FIN)",
+    "opponentUrl": "/en/biography/athlete/roine-tuomas",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "KUHTA Marko (FIN)",
+    "opponentUrl": "/en/biography/athlete/323207",
+    "win": false,
+    "scoreOwn": 12,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ÄMMÄLÄ Tiitus (FIN)",
+    "opponentUrl": "/en/biography/athlete/348054",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SKOGSTER Moritz (FIN)",
+    "opponentUrl": "/en/biography/athlete/319744",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TAURIAINEN Topias (FIN)",
+    "opponentUrl": "/en/biography/athlete/123632",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KYKKÄNEN Robert (FIN)",
+    "opponentUrl": "/en/biography/athlete/339048",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "OJALA Tuomas (FIN)",
+    "opponentUrl": "/en/biography/athlete/322345",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "4/27/19",
+    "event": "Finnish Championships in epee, Turku FIN",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TERHO Jussi (FIN)",
+    "opponentUrl": "/en/biography/athlete/321019",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

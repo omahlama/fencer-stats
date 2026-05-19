@@ -1,0 +1,93 @@
+[
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A128",
+    "opponent": "FOGDE Oskar (FIN)",
+    "opponentUrl": "/en/biography/athlete/123622",
+    "win": false,
+    "scoreOwn": 9,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "ROBL Troels Christian (DEN)",
+    "opponentUrl": "/en/biography/athlete/49244",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "AIDO Henrik (EST)",
+    "opponentUrl": "/en/biography/athlete/122823",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "MAKAROV Ilja (LAT)",
+    "opponentUrl": "/en/biography/athlete/307994",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "ANTTILA Karri (FIN)",
+    "opponentUrl": "/en/biography/athlete/122488",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "DVARISKIS Edgaras (LTU)",
+    "opponentUrl": "/en/biography/athlete/313349",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "WAHLGREN Rasmus (SWE)",
+    "opponentUrl": "/en/biography/athlete/70032",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 0
+  }
+]

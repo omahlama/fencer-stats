@@ -1,0 +1,93 @@
+[
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "MAHLAMÄKI Olli (FIN)",
+    "opponentUrl": "/en/biography/athlete/21758",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SUORSA Markus (FIN)",
+    "opponentUrl": "/en/biography/athlete/suorsa-markus",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VOUTILAINEN Xander (FIN)",
+    "opponentUrl": "/en/biography/athlete/voutilainen-xander",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HAARALA Ville (FIN)",
+    "opponentUrl": "/en/biography/athlete/321232",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SUNDSTRÖM Filip (FIN)",
+    "opponentUrl": "/en/biography/athlete/375779",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "MAHLAMÄKI Olli (FIN)",
+    "opponentUrl": "/en/biography/athlete/21758",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Sabre Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "NUUJA Kalle (FIN)",
+    "opponentUrl": "/en/biography/athlete/348706",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  }
+]

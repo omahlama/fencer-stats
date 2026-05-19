@@ -1,0 +1,93 @@
+[
+  {
+    "date": "1/27/24",
+    "event": "Tampere Masters - Masters osakilpailu, Tampere FIN",
+    "discipline": "Epee Mixed U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "GIRENKO Agnia-Maria (EST)",
+    "opponentUrl": "/en/biography/athlete/girenko-agnia-maria",
+    "win": false,
+    "scoreOwn": 9,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "1/27/24",
+    "event": "Tampere Masters - Masters osakilpailu, Tampere FIN",
+    "discipline": "Epee Mixed U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "DAUM Lenna (EST)",
+    "opponentUrl": "/en/biography/athlete/daum-lenna",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "1/27/24",
+    "event": "Tampere Masters - Masters osakilpailu, Tampere FIN",
+    "discipline": "Epee Mixed U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KOSUNEN Elsa (FIN)",
+    "opponentUrl": "/en/biography/athlete/kosunen-elsa",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "1/27/24",
+    "event": "Tampere Masters - Masters osakilpailu, Tampere FIN",
+    "discipline": "Epee Mixed U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "NOVOSJOLOVA Elizabeth (EST)",
+    "opponentUrl": "/en/biography/athlete/novosjolova-elizabeth",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/27/24",
+    "event": "Tampere Masters - Masters osakilpailu, Tampere FIN",
+    "discipline": "Epee Mixed U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "BILBAO Samuel (FIN)",
+    "opponentUrl": "/en/biography/athlete/bilbao-samuel-1",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "1/27/24",
+    "event": "Tampere Masters - Masters osakilpailu, Tampere FIN",
+    "discipline": "Epee Mixed U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "BALOGH Vera (FIN)",
+    "opponentUrl": "/en/biography/athlete/balogh-vera",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/27/24",
+    "event": "Tampere Masters - Masters osakilpailu, Tampere FIN",
+    "discipline": "Epee Mixed U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "SNITSARENKO Sebastian (EST)",
+    "opponentUrl": "/en/biography/athlete/snitsarenko-sebastian",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

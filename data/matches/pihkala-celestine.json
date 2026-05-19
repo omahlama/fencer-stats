@@ -1,0 +1,67 @@
+[
+  {
+    "date": "10/18/25",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "AAMULEHTO Netta (FIN)",
+    "opponentUrl": "/en/biography/athlete/aamulehto-netta",
+    "win": false,
+    "scoreOwn": 11,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "10/18/25",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "VILVA Martti (FIN)",
+    "opponentUrl": "/en/biography/athlete/vilva-martti",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/18/25",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "ZOKOV Maksimilian (EST)",
+    "opponentUrl": "/en/biography/athlete/zokov-maksimilian",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/18/25",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "MAHLAMÄKI Eero (FIN)",
+    "opponentUrl": "/en/biography/athlete/mahlamaki-eero",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/18/25",
+    "event": "Sabre autumn tournament, Helsinki FIN",
+    "discipline": "Sabre Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "ZÕKOVA Anastassia (EST)",
+    "opponentUrl": "/en/biography/athlete/zokova-anastassia",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

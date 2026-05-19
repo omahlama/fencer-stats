@@ -1,0 +1,80 @@
+[
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "RANTALA Einar (FIN)",
+    "opponentUrl": "/en/biography/athlete/rantala-einar",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "PITKÄNEN Heikki Santeri (FIN)",
+    "opponentUrl": "/en/biography/athlete/pitkanen-heikki-santeri",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "KARES Antti (FIN)",
+    "opponentUrl": "/en/biography/athlete/319802",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "ESSOULI Joakim (FIN)",
+    "opponentUrl": "/en/biography/athlete/essouli-joakim",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "KUVAJA Ville (FIN)",
+    "opponentUrl": "/en/biography/athlete/34122",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "1/10/26",
+    "event": "Torni-Turnaus and Epee Team Tournament, Kuopio FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "AFANASSIEV Nikita (FIN)",
+    "opponentUrl": "/en/biography/athlete/375377",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PEJIC DOBROTA Isabelle (FIN)",
+    "opponentUrl": "/en/biography/athlete/pejic-dobrota-isabelle",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 0
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "AHO Hilma (FIN)",
+    "opponentUrl": "/en/biography/athlete/aho-hilma",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SOMEROJA Tiitus (FIN)",
+    "opponentUrl": "/en/biography/athlete/someroja-tiitus",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SOMEROJA Tiitus (FIN)",
+    "opponentUrl": "/en/biography/athlete/someroja-tiitus",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/27/23",
+    "event": "HFM 100v Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "AHO Hilma (FIN)",
+    "opponentUrl": "/en/biography/athlete/aho-hilma",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

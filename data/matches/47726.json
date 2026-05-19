@@ -1,0 +1,93 @@
+[
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "SYVÄLÄ Ilona (FIN)",
+    "opponentUrl": "/en/biography/athlete/122497",
+    "win": false,
+    "scoreOwn": 7,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "URBAITE Gabriele (LTU)",
+    "opponentUrl": "/en/biography/athlete/122362",
+    "win": true,
+    "scoreOwn": 15,
+    "scoreOpponent": 6
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "12",
+    "opponent": "LUNDGREN Fanni (NOR)",
+    "opponentUrl": "/en/biography/athlete/55325",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "12",
+    "opponent": "PETTERSSON Tove (SWE)",
+    "opponentUrl": "/en/biography/athlete/48528",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "12",
+    "opponent": "AZUKAITE Vikte (LTU)",
+    "opponentUrl": "/en/biography/athlete/122360",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "12",
+    "opponent": "BARRATT Brenna (LAT)",
+    "opponentUrl": "/en/biography/athlete/56287",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "12",
+    "opponent": "AZIZOVA Madina (EST)",
+    "opponentUrl": "/en/biography/athlete/122493",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  }
+]

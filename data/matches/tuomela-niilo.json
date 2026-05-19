@@ -1,0 +1,80 @@
+[
+  {
+    "date": "3/6/20",
+    "event": "Espoon Suurkisat, Espoo FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "KOSKI Ilkka (FIN)",
+    "opponentUrl": "/en/biography/athlete/397661",
+    "win": false,
+    "scoreOwn": 7,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "3/6/20",
+    "event": "Espoon Suurkisat, Espoo FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KUHTA Marko (FIN)",
+    "opponentUrl": "/en/biography/athlete/323207",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/6/20",
+    "event": "Espoon Suurkisat, Espoo FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VIIDIK Renar (FIN)",
+    "opponentUrl": "/en/biography/athlete/viidik-renar",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "3/6/20",
+    "event": "Espoon Suurkisat, Espoo FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "JAHU Edvin (EST)",
+    "opponentUrl": "/en/biography/athlete/384975",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/6/20",
+    "event": "Espoon Suurkisat, Espoo FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KOSKI Ilkka (FIN)",
+    "opponentUrl": "/en/biography/athlete/397661",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/6/20",
+    "event": "Espoon Suurkisat, Espoo FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KUZMINOV Egor (RUS)",
+    "opponentUrl": "/en/biography/athlete/kuzminov-egor",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

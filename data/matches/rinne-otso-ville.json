@@ -1,0 +1,80 @@
+[
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LAURÉN Linus (FIN)",
+    "opponentUrl": "/en/biography/athlete/340631",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SALMENPOHJA Tuomas (FIN)",
+    "opponentUrl": "/en/biography/athlete/salmenpohja-tuomas",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SCHLIZEWSKI Neeo (FIN)",
+    "opponentUrl": "/en/biography/athlete/schlizewski-neeo",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PAAVOLAINEN Jaakko (FIN)",
+    "opponentUrl": "/en/biography/athlete/123757",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SEPPÄNEN Niklas (FIN)",
+    "opponentUrl": "/en/biography/athlete/seppanen-niklas",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LEIVA Johannes (FIN)",
+    "opponentUrl": "/en/biography/athlete/leiva-johannes",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  }
+]

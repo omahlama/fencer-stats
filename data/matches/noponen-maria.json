@@ -1,0 +1,93 @@
+[
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "HEINO Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/392379",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "LEPPÄAHO Marjana (FIN)",
+    "opponentUrl": "/en/biography/athlete/leppaaho-marjana",
+    "win": true,
+    "scoreOwn": 15,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "DEGERMAN Ruusa (FIN)",
+    "opponentUrl": "/en/biography/athlete/118764",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KÄKÖNEN Soile (FIN)",
+    "opponentUrl": "/en/biography/athlete/381721",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "SEPPÄLÄ Milka (FIN)",
+    "opponentUrl": "/en/biography/athlete/seppala-milka",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KURKI-SUONIO Suvi (FIN)",
+    "opponentUrl": "/en/biography/athlete/304763",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "HAUKKALA Sanna (FIN)",
+    "opponentUrl": "/en/biography/athlete/haukkala-sanna",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "KNUDSEN Laura (DEN)",
+    "opponentUrl": "/en/biography/athlete/knudsen-laura",
+    "win": false,
+    "scoreOwn": 7,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KATKOVAITE Akvile (LTU)",
+    "opponentUrl": "/en/biography/athlete/122364",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "STIBLERT Anna (SWE)",
+    "opponentUrl": "/en/biography/athlete/54049",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SOSA Eveliin (EST)",
+    "opponentUrl": "/en/biography/athlete/314076",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "VONEN Thea (NOR)",
+    "opponentUrl": "/en/biography/athlete/118185",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "GOSSER-DUNCAN Katja (SWE)",
+    "opponentUrl": "/en/biography/athlete/70129",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "LEHIS Katrina (EST)",
+    "opponentUrl": "/en/biography/athlete/55409",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

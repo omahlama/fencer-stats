@@ -1,0 +1,80 @@
+[
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "8",
+    "opponent": "ABOLTINS Roberts (LAT)",
+    "opponentUrl": "/en/biography/athlete/942",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "8",
+    "opponent": "MINKEVICIUS Lukas (LTU)",
+    "opponentUrl": "/en/biography/athlete/307949",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "8",
+    "opponent": "HANSTEIN Meelis (EST)",
+    "opponentUrl": "/en/biography/athlete/122517",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "8",
+    "opponent": "TOSCANO-WESTMAN Erik (SWE)",
+    "opponentUrl": "/en/biography/athlete/70461",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "8",
+    "opponent": "HERBERN Stian (NOR)",
+    "opponentUrl": "/en/biography/athlete/38486",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "8",
+    "opponent": "BERG NIEMELÄ Elias (SWE)",
+    "opponentUrl": "/en/biography/athlete/89491",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  }
+]

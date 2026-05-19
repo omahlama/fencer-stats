@@ -1,0 +1,80 @@
+[
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "LEHTONEN Ritva-Leena (FIN)",
+    "opponentUrl": "/en/biography/athlete/53109",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "PITKÄNEN Riinaliisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/pitkanen-riinaliisa",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TUOMINEN Maija (FIN)",
+    "opponentUrl": "/en/biography/athlete/319852",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "STOLT Katja (FIN)",
+    "opponentUrl": "/en/biography/athlete/stolt-katja",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TERVONEN Mirja (FIN)",
+    "opponentUrl": "/en/biography/athlete/tervonen-mirja",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "VUORINEN Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/319697",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

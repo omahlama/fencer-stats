@@ -1,0 +1,80 @@
+[
+  {
+    "date": "4/5/25",
+    "event": "HFM Minijunioreiden kalpakilpailu 2025, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "SEPPÄNEN Niklas (FIN)",
+    "opponentUrl": "/en/biography/athlete/seppanen-niklas",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "4/5/25",
+    "event": "HFM Minijunioreiden kalpakilpailu 2025, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "SEPPÄNEN Niklas (FIN)",
+    "opponentUrl": "/en/biography/athlete/seppanen-niklas",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/5/25",
+    "event": "HFM Minijunioreiden kalpakilpailu 2025, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "HALLIK Siim Kаsраr (EST)",
+    "opponentUrl": "/en/biography/athlete/hallik-siim-kasrar",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/5/25",
+    "event": "HFM Minijunioreiden kalpakilpailu 2025, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "ROUSSEAU Felix (FIN)",
+    "opponentUrl": "/en/biography/athlete/rousseau-felix-1",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/5/25",
+    "event": "HFM Minijunioreiden kalpakilpailu 2025, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "NIILUS Evert (EST)",
+    "opponentUrl": "/en/biography/athlete/niilus-evert",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/5/25",
+    "event": "HFM Minijunioreiden kalpakilpailu 2025, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "SALMI Lassi (FIN)",
+    "opponentUrl": "/en/biography/athlete/salmi-lassi",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

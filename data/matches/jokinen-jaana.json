@@ -1,0 +1,80 @@
+[
+  {
+    "date": "1/25/25",
+    "event": "Tampere Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "MURTONIEMI Milla (FIN)",
+    "opponentUrl": "/en/biography/athlete/murtoniemi-milla",
+    "win": false,
+    "scoreOwn": 5,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "1/25/25",
+    "event": "Tampere Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KÄKÖNEN Soile (FIN)",
+    "opponentUrl": "/en/biography/athlete/381721",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/25/25",
+    "event": "Tampere Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VIITA Mili (FIN)",
+    "opponentUrl": "/en/biography/athlete/356876",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/25/25",
+    "event": "Tampere Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KUOSMANEN Suvi (FIN)",
+    "opponentUrl": "/en/biography/athlete/kuosmanen-suvi",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/25/25",
+    "event": "Tampere Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SOMEROJA Marja-Liisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/23692",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/25/25",
+    "event": "Tampere Veterans Tournament, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "URRILA Liisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/urrila-liisa",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

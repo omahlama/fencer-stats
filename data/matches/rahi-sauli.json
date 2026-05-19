@@ -1,0 +1,93 @@
+[
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "SY Gionne Bliss (FIN)",
+    "opponentUrl": "/en/biography/athlete/sy-gionne-bliss",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "EK Alexander (FIN)",
+    "opponentUrl": "/en/biography/athlete/ek-alexander-1",
+    "win": true,
+    "scoreOwn": 10,
+    "scoreOpponent": 9
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "AHONEN Lauri (FIN)",
+    "opponentUrl": "/en/biography/athlete/ahonen-lauri",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SY Gionne Bliss (FIN)",
+    "opponentUrl": "/en/biography/athlete/sy-gionne-bliss",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SOTSOVA Sofia (EST)",
+    "opponentUrl": "/en/biography/athlete/sotsova-sofia",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SARASTO Ruut (FIN)",
+    "opponentUrl": "/en/biography/athlete/sarasto-ruut",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "VASANEN Kuisma (FIN)",
+    "opponentUrl": "/en/biography/athlete/vasanen-kuisma-1",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

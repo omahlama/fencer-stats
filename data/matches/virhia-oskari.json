@@ -1,0 +1,93 @@
+[
+  {
+    "date": "4/9/22",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "PAAVOLAINEN Jaakko (FIN)",
+    "opponentUrl": "/en/biography/athlete/123757",
+    "win": false,
+    "scoreOwn": 5,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "4/9/22",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "ÄMMÄLÄ Tiitus (FIN)",
+    "opponentUrl": "/en/biography/athlete/348054",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "4/9/22",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "TOKOLA Teemu (FIN)",
+    "opponentUrl": "/en/biography/athlete/37244",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/9/22",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "WILHELMSSON Samu (FIN)",
+    "opponentUrl": "/en/biography/athlete/361636",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/9/22",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "TAURIAINEN Topias (FIN)",
+    "opponentUrl": "/en/biography/athlete/123632",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/9/22",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "RISSANEN Aapo (FIN)",
+    "opponentUrl": "/en/biography/athlete/328043",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/9/22",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "MÄNNISTÖ Tomi (FIN)",
+    "opponentUrl": "/en/biography/athlete/mannisto-tomi",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 3
+  }
+]

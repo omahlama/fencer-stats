@@ -1,0 +1,80 @@
+[
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "MATIKAINEN Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/392882",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "LEHTONEN Suvi-Maaria (FIN)",
+    "opponentUrl": "/en/biography/athlete/lehtonen-suvi-maaria",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "PAK Sonja (FIN)",
+    "opponentUrl": "/en/biography/athlete/pak-sonja",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "ESKELINEN Pia (FIN)",
+    "opponentUrl": "/en/biography/athlete/eskelinen-pia",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KOKKI Vilma (FIN)",
+    "opponentUrl": "/en/biography/athlete/kokki-vilma",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "3/7/26",
+    "event": "Kerttula Memorial, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "TYNKKYNEN Isabella (FIN)",
+    "opponentUrl": "/en/biography/athlete/tynkkynen-isabella",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 4
+  }
+]

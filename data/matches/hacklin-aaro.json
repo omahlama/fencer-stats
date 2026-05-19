@@ -1,0 +1,80 @@
+[
+  {
+    "date": "3/21/26",
+    "event": "Espoo Junior Competition – Masters competition, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "TENDER Mattius (EST)",
+    "opponentUrl": "/en/biography/athlete/tender-mattius",
+    "win": false,
+    "scoreOwn": 7,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "3/21/26",
+    "event": "Espoo Junior Competition – Masters competition, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "YIXUAN Zhao (FIN)",
+    "opponentUrl": "/en/biography/athlete/yixuan-zhao",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/21/26",
+    "event": "Espoo Junior Competition – Masters competition, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TALVENSAARI Alvar (FIN)",
+    "opponentUrl": "/en/biography/athlete/talvensaari-alvar",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/21/26",
+    "event": "Espoo Junior Competition – Masters competition, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "LAVRENTJEV Lev (EST)",
+    "opponentUrl": "/en/biography/athlete/lavrentjev-lev",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/21/26",
+    "event": "Espoo Junior Competition – Masters competition, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HEIN Brit (EST)",
+    "opponentUrl": "/en/biography/athlete/hein-brit",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "3/21/26",
+    "event": "Espoo Junior Competition – Masters competition, Espoo FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TENDER Mattius (EST)",
+    "opponentUrl": "/en/biography/athlete/tender-mattius",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  }
+]

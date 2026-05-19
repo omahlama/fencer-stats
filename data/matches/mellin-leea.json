@@ -1,0 +1,80 @@
+[
+  {
+    "date": "1/28/23",
+    "event": "Tampereen Veteraanikilpailu, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "TENO Eija (FIN)",
+    "opponentUrl": "/en/biography/athlete/teno-eija",
+    "win": false,
+    "scoreOwn": 7,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "1/28/23",
+    "event": "Tampereen Veteraanikilpailu, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HOKMOLLAHI Fatemeh (FIN)",
+    "opponentUrl": "/en/biography/athlete/hokmollahi-fatemeh",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "1/28/23",
+    "event": "Tampereen Veteraanikilpailu, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VIITA Mili (FIN)",
+    "opponentUrl": "/en/biography/athlete/356876",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "1/28/23",
+    "event": "Tampereen Veteraanikilpailu, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "RASK Susanna (FIN)",
+    "opponentUrl": "/en/biography/athlete/rask-susanna",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "1/28/23",
+    "event": "Tampereen Veteraanikilpailu, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEINÄMAA Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/319704",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/28/23",
+    "event": "Tampereen Veteraanikilpailu, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "MURTONIEMI Milla (FIN)",
+    "opponentUrl": "/en/biography/athlete/murtoniemi-milla",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  }
+]

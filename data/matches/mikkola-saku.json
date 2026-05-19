@@ -1,0 +1,80 @@
+[
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "AHONEN Lauri (FIN)",
+    "opponentUrl": "/en/biography/athlete/ahonen-lauri",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "SCHLIZEWSKI Neeo (FIN)",
+    "opponentUrl": "/en/biography/athlete/schlizewski-neeo",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "SEPPÄNEN Niklas (FIN)",
+    "opponentUrl": "/en/biography/athlete/seppanen-niklas",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "SANDSTRÖM Ines (FIN)",
+    "opponentUrl": "/en/biography/athlete/sandstrom-ines",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "TERAL Gedi-Loore (EST)",
+    "opponentUrl": "/en/biography/athlete/teral-gedi-loore",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/12/22",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "4",
+    "opponent": "JÄRNSTRÖM Heidi (FIN)",
+    "opponentUrl": "/en/biography/athlete/jarnstrom-heidi-1",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

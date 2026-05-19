@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "BRANDES Jasmin (FIN)",
+    "opponentUrl": "/en/biography/athlete/brandes-jasmin",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "CHAUSOVA Vera (RUS)",
+    "opponentUrl": "/en/biography/athlete/chausova-vera",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HAUKKALA Sanna (FIN)",
+    "opponentUrl": "/en/biography/athlete/haukkala-sanna",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "BRANDES Jasmin (FIN)",
+    "opponentUrl": "/en/biography/athlete/brandes-jasmin",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SEBERT Mali (FIN)",
+    "opponentUrl": "/en/biography/athlete/sebert-mali",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TOPPARI Pihla (FIN)",
+    "opponentUrl": "/en/biography/athlete/toppari-pihla",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

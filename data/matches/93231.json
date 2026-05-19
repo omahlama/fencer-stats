@@ -1,0 +1,67 @@
+[
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "10",
+    "opponent": "LAURITZEN Julie (DEN)",
+    "opponentUrl": "/en/biography/athlete/306613",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "10",
+    "opponent": "HARK Anu (EST)",
+    "opponentUrl": "/en/biography/athlete/93229",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "10",
+    "opponent": "PETROVA Valerija (LAT)",
+    "opponentUrl": "/en/biography/athlete/307924",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "10",
+    "opponent": "NORBERG Agnes (SWE)",
+    "opponentUrl": "/en/biography/athlete/55775",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Women's U20 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "10",
+    "opponent": "RUNOLD Vendela (SWE)",
+    "opponentUrl": "/en/biography/athlete/55799",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

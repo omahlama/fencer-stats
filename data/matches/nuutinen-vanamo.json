@@ -1,0 +1,80 @@
+[
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "TYNKKYNEN Isabella (FIN)",
+    "opponentUrl": "/en/biography/athlete/tynkkynen-isabella",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KAIHOVAARA Elli (FIN)",
+    "opponentUrl": "/en/biography/athlete/kaihovaara-elli",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SARASTO Ruut (FIN)",
+    "opponentUrl": "/en/biography/athlete/sarasto-ruut",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SHMIDT Elisabeth (FIN)",
+    "opponentUrl": "/en/biography/athlete/shmidt-elisabeth",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "MYYRÄ Emilia (FIN)",
+    "opponentUrl": "/en/biography/athlete/myyra-emilia",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "TERAL Gedi-Loore (EST)",
+    "opponentUrl": "/en/biography/athlete/teral-gedi-loore",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "date": "9/29/18",
+    "event": "Nils Sjöblom Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "HEINÄMAA Akseli (FIN)",
+    "opponentUrl": "/en/biography/athlete/319725",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/29/18",
+    "event": "Nils Sjöblom Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "LÖNNBERG Oskar (FIN)",
+    "opponentUrl": "/en/biography/athlete/306329",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/29/18",
+    "event": "Nils Sjöblom Memorial, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "PUTKONEN Petri (FIN)",
+    "opponentUrl": "/en/biography/athlete/348097",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

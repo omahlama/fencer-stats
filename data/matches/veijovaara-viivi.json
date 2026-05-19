@@ -1,0 +1,67 @@
+[
+  {
+    "date": "10/16/21",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "TAMMIMIES Tanja (FIN)",
+    "opponentUrl": "/en/biography/athlete/51377",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "10/16/21",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SINISALO Outi (FIN)",
+    "opponentUrl": "/en/biography/athlete/sinisalo-outi",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/16/21",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SINIOJA Aino (FIN)",
+    "opponentUrl": "/en/biography/athlete/sinioja-aino",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/16/21",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KURKI-SUONIO Suvi (FIN)",
+    "opponentUrl": "/en/biography/athlete/304763",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/16/21",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KURTTILA Sara (FIN)",
+    "opponentUrl": "/en/biography/athlete/340800",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

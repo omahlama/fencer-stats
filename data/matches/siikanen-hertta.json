@@ -1,0 +1,80 @@
+[
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "BARABASH Oleksii (EST)",
+    "opponentUrl": "/en/biography/athlete/barabash-oleksii",
+    "win": false,
+    "scoreOwn": 8,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "GORBATŠOVA Alisa (EST)",
+    "opponentUrl": "/en/biography/athlete/gorbatsova-alisa",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "LEMPIÄINEN Elma (FIN)",
+    "opponentUrl": "/en/biography/athlete/lempiainen-elma",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "VARIS Erik (EST)",
+    "opponentUrl": "/en/biography/athlete/varis-erik",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KARLSON Cassandra (EST)",
+    "opponentUrl": "/en/biography/athlete/karlson-cassandra",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/22/25",
+    "event": "Kuutti Cup - Masters tournament, Lappeenranta FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "MIDT Elisabeth (EST)",
+    "opponentUrl": "/en/biography/athlete/midt-elisabeth",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

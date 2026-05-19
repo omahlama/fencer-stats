@@ -1,0 +1,67 @@
+[
+  {
+    "date": "4/18/26",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "RAULO Asta (FIN)",
+    "opponentUrl": "/en/biography/athlete/raulo-asta",
+    "win": false,
+    "scoreOwn": 8,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "4/18/26",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "RASK Susanna (FIN)",
+    "opponentUrl": "/en/biography/athlete/rask-susanna",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "4/18/26",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "HALME Sini (FIN)",
+    "opponentUrl": "/en/biography/athlete/362208",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/18/26",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "VIRTANEN Viivi (FIN)",
+    "opponentUrl": "/en/biography/athlete/virtanen-viivi",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "4/18/26",
+    "event": "Tapanila Cup, Helsinki FIN",
+    "discipline": "Sabre Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "PITKÄNEN Riinaliisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/pitkanen-riinaliisa",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

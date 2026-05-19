@@ -1,0 +1,93 @@
+[
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "VOUTILAINEN Xander (FIN)",
+    "opponentUrl": "/en/biography/athlete/voutilainen-xander",
+    "win": false,
+    "scoreOwn": 6,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ELONHEIMO Ville (FIN)",
+    "opponentUrl": "/en/biography/athlete/47121",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HILTUNEN Ilari (FIN)",
+    "opponentUrl": "/en/biography/athlete/337443",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "MAHLAMÄKI Olli (FIN)",
+    "opponentUrl": "/en/biography/athlete/21758",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEISKARI Ilmari (FIN)",
+    "opponentUrl": "/en/biography/athlete/332475",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KALLANKARI Joonas (FIN)",
+    "opponentUrl": "/en/biography/athlete/328013",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/16/26",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ANDERSSON Hans (FIN)",
+    "opponentUrl": "/en/biography/athlete/319750",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

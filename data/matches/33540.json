@@ -1,0 +1,67 @@
+[
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "REPO Juho Oskari (FIN)",
+    "opponentUrl": "/en/biography/athlete/repo-juho-oskari",
+    "win": false,
+    "scoreOwn": 13,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "JÄRVELÄ Olli (FIN)",
+    "opponentUrl": "/en/biography/athlete/304766",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HILTUNEN Ilari (FIN)",
+    "opponentUrl": "/en/biography/athlete/337443",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEISKARI Ilmari (FIN)",
+    "opponentUrl": "/en/biography/athlete/332475",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/25/24",
+    "event": "Finnish Championships, Helsinki FIN",
+    "discipline": "Foil Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LEIVISKÄ Petteri (FIN)",
+    "opponentUrl": "/en/biography/athlete/34125",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  }
+]

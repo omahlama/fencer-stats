@@ -1,0 +1,93 @@
+[
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "HÄMÄLÄINEN Emma (FIN)",
+    "opponentUrl": "/en/biography/athlete/hamalainen-emma",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "KUVAJA Veera (FIN)",
+    "opponentUrl": "/en/biography/athlete/kuvaja-veera",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "SALMINEN Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/89767",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "VIITA Mili (FIN)",
+    "opponentUrl": "/en/biography/athlete/356876",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "LUNDELL Moa Ruut Maleena (FIN)",
+    "opponentUrl": "/en/biography/athlete/lundell-moa-ruut-maleena",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "NISKALA Viena (FIN)",
+    "opponentUrl": "/en/biography/athlete/360090",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "TERHO Liisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/319794",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  }
+]

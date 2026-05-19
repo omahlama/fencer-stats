@@ -1,0 +1,80 @@
+[
+  {
+    "date": "4/22/23",
+    "event": "Finnish U17 and U20 Epee Championships, Espoo FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "OJALA Minea (FIN)",
+    "opponentUrl": "/en/biography/athlete/ojala-minea",
+    "win": false,
+    "scoreOwn": 5,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "4/22/23",
+    "event": "Finnish U17 and U20 Epee Championships, Espoo FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "MATIKAINEN Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/392882",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/22/23",
+    "event": "Finnish U17 and U20 Epee Championships, Espoo FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KUSRATI Milana (FIN)",
+    "opponentUrl": "/en/biography/athlete/kusrati-milana",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/22/23",
+    "event": "Finnish U17 and U20 Epee Championships, Espoo FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "LUNDELL Moa Ruut Maleena (FIN)",
+    "opponentUrl": "/en/biography/athlete/lundell-moa-ruut-maleena",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/22/23",
+    "event": "Finnish U17 and U20 Epee Championships, Espoo FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KOKKI Vilma (FIN)",
+    "opponentUrl": "/en/biography/athlete/kokki-vilma",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "4/22/23",
+    "event": "Finnish U17 and U20 Epee Championships, Espoo FIN",
+    "discipline": "Epee Women's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "OJANEN Sofia (FIN)",
+    "opponentUrl": "/en/biography/athlete/ojanen-sofia",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

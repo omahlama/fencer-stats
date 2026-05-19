@@ -1,0 +1,93 @@
+[
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "MINAJEV Vladislav (EST)",
+    "opponentUrl": "/en/biography/athlete/304605",
+    "win": false,
+    "scoreOwn": 13,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "9",
+    "opponent": "BORGSTRÖM Emil (SWE)",
+    "opponentUrl": "/en/biography/athlete/70042",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "9",
+    "opponent": "WERRING Cornelius (NOR)",
+    "opponentUrl": "/en/biography/athlete/92331",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "9",
+    "opponent": "LAUHIO Jesperi (FIN)",
+    "opponentUrl": "/en/biography/athlete/307546",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "9",
+    "opponent": "KOPRA Henri (EST)",
+    "opponentUrl": "/en/biography/athlete/307943",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "9",
+    "opponent": "CIRSIS Roberts (LAT)",
+    "opponentUrl": "/en/biography/athlete/307935",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "9/24/11",
+    "event": "Nordic Championships, Riga LAT",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "9",
+    "opponent": "ESKOV Ruslan (EST)",
+    "opponentUrl": "/en/biography/athlete/313723",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]

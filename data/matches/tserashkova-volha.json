@@ -1,0 +1,80 @@
+[
+  {
+    "date": "1/24/26",
+    "event": "Tampere Veterans Tournament and Kalpaveljet 70th Anniversary Competition, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "TERVONEN Mirja (FIN)",
+    "opponentUrl": "/en/biography/athlete/tervonen-mirja",
+    "win": false,
+    "scoreOwn": 9,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "1/24/26",
+    "event": "Tampere Veterans Tournament and Kalpaveljet 70th Anniversary Competition, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KOJO Sari (FIN)",
+    "opponentUrl": "/en/biography/athlete/123728",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/24/26",
+    "event": "Tampere Veterans Tournament and Kalpaveljet 70th Anniversary Competition, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ALA-SULKAVA Maria (FIN)",
+    "opponentUrl": "/en/biography/athlete/392496",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/24/26",
+    "event": "Tampere Veterans Tournament and Kalpaveljet 70th Anniversary Competition, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "URRILA Liisa (FIN)",
+    "opponentUrl": "/en/biography/athlete/urrila-liisa",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/24/26",
+    "event": "Tampere Veterans Tournament and Kalpaveljet 70th Anniversary Competition, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SEPPÄLÄ Sanna-Mari (FIN)",
+    "opponentUrl": "/en/biography/athlete/309056",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "1/24/26",
+    "event": "Tampere Veterans Tournament and Kalpaveljet 70th Anniversary Competition, Tampere FIN",
+    "discipline": "Epee Women's V40 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PAKKALA Maarit (FIN)",
+    "opponentUrl": "/en/biography/athlete/pakkala-maarit",
+    "win": true,
+    "scoreOwn": 4,
+    "scoreOpponent": 1
+  }
+]

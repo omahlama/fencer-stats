@@ -1,0 +1,80 @@
+[
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "KLEIMOLA Juuso (FIN)",
+    "opponentUrl": "/en/biography/athlete/kleimola-juuso",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "LOIJAS Aleksi (FIN)",
+    "opponentUrl": "/en/biography/athlete/loijas-aleksi",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "HESSO Heikki (FIN)",
+    "opponentUrl": "/en/biography/athlete/hesso-heikki",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "ERVIN Dominic (EST)",
+    "opponentUrl": "/en/biography/athlete/ervin-dominic",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "JOEAAR Iiris (EST)",
+    "opponentUrl": "/en/biography/athlete/joeaar-iiris",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "3",
+    "opponent": "TUOMISTO Veikka (FIN)",
+    "opponentUrl": "/en/biography/athlete/tuomisto-veikka",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "ROUSSEAU Felix (FIN)",
+    "opponentUrl": "/en/biography/athlete/rousseau-felix-1",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KUTSER Robert (EST)",
+    "opponentUrl": "/en/biography/athlete/kutser-robert",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEIN Mathias (EST)",
+    "opponentUrl": "/en/biography/athlete/hein-mathias",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SCHLIZEWSKI Neeo (FIN)",
+    "opponentUrl": "/en/biography/athlete/schlizewski-neeo",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PATRIARCA Ekke (EST)",
+    "opponentUrl": "/en/biography/athlete/patriarca-ekke",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/23/24",
+    "event": "Espoon Suurkisat 2024, Espoo FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VUOLLE Julius (FIN)",
+    "opponentUrl": "/en/biography/athlete/vuolle-julius",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

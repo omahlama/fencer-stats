@@ -1,0 +1,67 @@
+[
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HONKANEN Anniina (FIN)",
+    "opponentUrl": "/en/biography/athlete/349670",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VUORINEN Anna (FIN)",
+    "opponentUrl": "/en/biography/athlete/319697",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PALMERIO Leonie (GER)",
+    "opponentUrl": "/en/biography/athlete/palmerio-leonie",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEISKARI Vilhelmiina (FIN)",
+    "opponentUrl": "/en/biography/athlete/344485",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/24/20",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ATAS Derya Dilara (FIN)",
+    "opponentUrl": "/en/biography/athlete/atas-derya-dilara",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  }
+]

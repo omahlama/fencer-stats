@@ -1,0 +1,80 @@
+[
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KESKINIVA Arto (FIN)",
+    "opponentUrl": "/en/biography/athlete/306331",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "LEHTINEN Kasper (FIN)",
+    "opponentUrl": "/en/biography/athlete/385136",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "REZNICHENKO Alexander (FIN)",
+    "opponentUrl": "/en/biography/athlete/378983",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "JUTILA Julius (FIN)",
+    "opponentUrl": "/en/biography/athlete/334008",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SEEVE Teemu (FIN)",
+    "opponentUrl": "/en/biography/athlete/36903",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/13/23",
+    "event": "Finnish Championships, Turku FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HONKA Leo (FIN)",
+    "opponentUrl": "/en/biography/athlete/honka-leo-1",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

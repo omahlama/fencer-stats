@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "HAUKKALA Sanna (FIN)",
+    "opponentUrl": "/en/biography/athlete/haukkala-sanna",
+    "win": false,
+    "scoreOwn": 12,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "BRANDES Jasmin (FIN)",
+    "opponentUrl": "/en/biography/athlete/brandes-jasmin",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "CHAUSOVA Vera (RUS)",
+    "opponentUrl": "/en/biography/athlete/chausova-vera",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HAUKKALA Sanna (FIN)",
+    "opponentUrl": "/en/biography/athlete/haukkala-sanna",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SEBERT Mali (FIN)",
+    "opponentUrl": "/en/biography/athlete/sebert-mali",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "2/7/26",
+    "event": "Floretin ja Säilän Kevätkilpailu, Helsinki FIN",
+    "discipline": "Foil Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KERTTULA Vilma (FIN)",
+    "opponentUrl": "/en/biography/athlete/kerttula-vilma",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  }
+]

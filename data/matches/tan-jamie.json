@@ -1,0 +1,67 @@
+[
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "SARAPÄÄ Sampo (FIN)",
+    "opponentUrl": "/en/biography/athlete/sarapaa-sampo",
+    "win": false,
+    "scoreOwn": 7,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SARAPÄÄ Sampo (FIN)",
+    "opponentUrl": "/en/biography/athlete/sarapaa-sampo",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "PELTOLA Oliver (FIN)",
+    "opponentUrl": "/en/biography/athlete/peltola-oliver-1",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "OJANEN Joakim (FIN)",
+    "opponentUrl": "/en/biography/athlete/392873",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "5/18/24",
+    "event": "HFM Minijunioreiden kalpakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HONKA Leo (FIN)",
+    "opponentUrl": "/en/biography/athlete/honka-leo-1",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

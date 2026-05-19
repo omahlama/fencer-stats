@@ -1,0 +1,80 @@
+[
+  {
+    "date": "10/11/25",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "KÄRKKÄINEN Mari (FIN)",
+    "opponentUrl": "/en/biography/athlete/karkkainen-mari",
+    "win": false,
+    "scoreOwn": 13,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "10/11/25",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HAAPANIEMI Heidi (FIN)",
+    "opponentUrl": "/en/biography/athlete/haapaniemi-heidi",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/11/25",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ESKELINEN Amanda (FIN)",
+    "opponentUrl": "/en/biography/athlete/eskelinen-amanda",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/11/25",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ESKELINEN Pia (FIN)",
+    "opponentUrl": "/en/biography/athlete/eskelinen-pia",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/11/25",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KÄRKKÄINEN Mari (FIN)",
+    "opponentUrl": "/en/biography/athlete/karkkainen-mari",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/11/25",
+    "event": "Polar Cup, Oulu FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KARJALAINEN Veera (FIN)",
+    "opponentUrl": "/en/biography/athlete/karjalainen-veera",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

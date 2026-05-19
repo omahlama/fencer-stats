@@ -1,0 +1,54 @@
+[
+  {
+    "date": "11/3/18",
+    "event": "YM Juhlakisa, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "PÖYSTI Laura (FIN)",
+    "opponentUrl": "/en/biography/athlete/344218",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/3/18",
+    "event": "YM Juhlakisa, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "SUNDQUIST Linn (FIN)",
+    "opponentUrl": "/en/biography/athlete/122357",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/3/18",
+    "event": "YM Juhlakisa, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "SOITIALA Paula (FIN)",
+    "opponentUrl": "/en/biography/athlete/31777",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/3/18",
+    "event": "YM Juhlakisa, Helsinki FIN",
+    "discipline": "Epee Women's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "5",
+    "opponent": "HEISKARI Vilhelmiina (FIN)",
+    "opponentUrl": "/en/biography/athlete/344485",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

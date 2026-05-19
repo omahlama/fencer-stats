@@ -1,0 +1,80 @@
+[
+  {
+    "date": "4/25/26",
+    "event": "HFM Minijunioreiden kevätkilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "HESSO Verna (FIN)",
+    "opponentUrl": "/en/biography/athlete/hesso-verna",
+    "win": false,
+    "scoreOwn": 5,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "4/25/26",
+    "event": "HFM Minijunioreiden kevätkilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SEPPÄNEN Oliver (FIN)",
+    "opponentUrl": "/en/biography/athlete/seppanen-oliver",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 1
+  },
+  {
+    "date": "4/25/26",
+    "event": "HFM Minijunioreiden kevätkilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "BABUADZE Alaxandra (EST)",
+    "opponentUrl": "/en/biography/athlete/babuadze-alaxandra",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/25/26",
+    "event": "HFM Minijunioreiden kevätkilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HESSO Verna (FIN)",
+    "opponentUrl": "/en/biography/athlete/hesso-verna",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "4/25/26",
+    "event": "HFM Minijunioreiden kevätkilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SWIFT Benjamin (FIN)",
+    "opponentUrl": "/en/biography/athlete/swift-benjamin",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/25/26",
+    "event": "HFM Minijunioreiden kevätkilpailu, Helsinki FIN",
+    "discipline": "Epee Open U9 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LATVALA Edvard (FIN)",
+    "opponentUrl": "/en/biography/athlete/latvala-edvard",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

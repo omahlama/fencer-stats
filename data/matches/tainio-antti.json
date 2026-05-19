@@ -1,0 +1,80 @@
+[
+  {
+    "date": "10/25/25",
+    "event": "SM-kilpailut 2025 Veteraanit, Lappeenranta FIN",
+    "discipline": "Epee Men's V50 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "JUSLIN Henry (FIN)",
+    "opponentUrl": "/en/biography/athlete/306332",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "10/25/25",
+    "event": "SM-kilpailut 2025 Veteraanit, Lappeenranta FIN",
+    "discipline": "Epee Men's V50 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SERGUN Eduard (FIN)",
+    "opponentUrl": "/en/biography/athlete/38319",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/25/25",
+    "event": "SM-kilpailut 2025 Veteraanit, Lappeenranta FIN",
+    "discipline": "Epee Men's V50 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LAHTI Tuure Taneli (FIN)",
+    "opponentUrl": "/en/biography/athlete/2769",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/25/25",
+    "event": "SM-kilpailut 2025 Veteraanit, Lappeenranta FIN",
+    "discipline": "Epee Men's V50 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LÖNNBERG Oskar (FIN)",
+    "opponentUrl": "/en/biography/athlete/306329",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/25/25",
+    "event": "SM-kilpailut 2025 Veteraanit, Lappeenranta FIN",
+    "discipline": "Epee Men's V50 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ELONHEIMO Ville (FIN)",
+    "opponentUrl": "/en/biography/athlete/47121",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "10/25/25",
+    "event": "SM-kilpailut 2025 Veteraanit, Lappeenranta FIN",
+    "discipline": "Epee Men's V50 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "PAHKALA Taneli (FIN)",
+    "opponentUrl": "/en/biography/athlete/319780",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  }
+]

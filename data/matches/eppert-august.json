@@ -1,0 +1,80 @@
+[
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A4",
+    "opponent": "BILBAO Samuel (FIN)",
+    "opponentUrl": "/en/biography/athlete/bilbao-samuel-1",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SAUKKOLA Otto (FIN)",
+    "opponentUrl": "/en/biography/athlete/saukkola-otto",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "ROINE Tuomas (FIN)",
+    "opponentUrl": "/en/biography/athlete/roine-tuomas",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "JÄRVELÄ Joonas (FIN)",
+    "opponentUrl": "/en/biography/athlete/jarvela-joonas",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 0
+  },
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "BILBAO Samuel (FIN)",
+    "opponentUrl": "/en/biography/athlete/bilbao-samuel-1",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "3/4/23",
+    "event": "Minijuniorikilpailu, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "SAUKKOLA Otto (FIN)",
+    "opponentUrl": "/en/biography/athlete/saukkola-otto",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  }
+]

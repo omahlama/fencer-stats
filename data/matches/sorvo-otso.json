@@ -1,0 +1,93 @@
+[
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "MENÉNDEZ SANCHO Mateo (FIN)",
+    "opponentUrl": "/en/biography/athlete/menendez-sancho-mateo-1",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "SHEN Yichen (FIN)",
+    "opponentUrl": "/en/biography/athlete/shen-yichen",
+    "win": true,
+    "scoreOwn": 10,
+    "scoreOpponent": 8
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TALVENSAARI Alvar (FIN)",
+    "opponentUrl": "/en/biography/athlete/talvensaari-alvar",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "MENÉNDEZ SANCHO Mateo (FIN)",
+    "opponentUrl": "/en/biography/athlete/menendez-sancho-mateo-1",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "JOEAAR Iiris (EST)",
+    "opponentUrl": "/en/biography/athlete/joeaar-iiris",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "TENDER Mattius (EST)",
+    "opponentUrl": "/en/biography/athlete/tender-mattius",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U11 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HELLSTEN Joda (FIN)",
+    "opponentUrl": "/en/biography/athlete/hellsten-joda",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  }
+]

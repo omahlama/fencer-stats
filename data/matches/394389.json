@@ -1,0 +1,41 @@
+[
+  {
+    "date": "10/13/18",
+    "event": "Masters Tournament Tournament 2, Helsinki FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "HOFFREN Helmi (FIN)",
+    "opponentUrl": "/en/biography/athlete/375076",
+    "win": true,
+    "scoreOwn": 12,
+    "scoreOpponent": 7
+  },
+  {
+    "date": "10/13/18",
+    "event": "Masters Tournament Tournament 2, Helsinki FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "KULAKOVA Elizaveta (RUS)",
+    "opponentUrl": "/en/biography/athlete/391808",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 2
+  },
+  {
+    "date": "10/13/18",
+    "event": "Masters Tournament Tournament 2, Helsinki FIN",
+    "discipline": "Epee Women's U15 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "VEHVILÄINEN Vilma (FIN)",
+    "opponentUrl": "/en/biography/athlete/333889",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

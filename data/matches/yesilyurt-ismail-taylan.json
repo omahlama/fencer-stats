@@ -1,0 +1,93 @@
+[
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A64",
+    "opponent": "KYYRIÄINEN Hannu (FIN)",
+    "opponentUrl": "/en/biography/athlete/378977",
+    "win": false,
+    "scoreOwn": 8,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KÄRKKÄINEN Saku (FIN)",
+    "opponentUrl": "/en/biography/athlete/karkkainen-saku",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KUVAJA Ville (FIN)",
+    "opponentUrl": "/en/biography/athlete/34122",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KESKINIVA Arto (FIN)",
+    "opponentUrl": "/en/biography/athlete/306331",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 4
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "SCHLIZEWSKI Neeo (FIN)",
+    "opponentUrl": "/en/biography/athlete/schlizewski-neeo",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "HEINÄMAA Akseli (FIN)",
+    "opponentUrl": "/en/biography/athlete/319725",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "11/23/24",
+    "event": "YM Juhlakilpailu, Helsinki FIN",
+    "discipline": "Epee Men's Senior Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "PAHKALA Pyry (FIN)",
+    "opponentUrl": "/en/biography/athlete/319737",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "date": "1/19/19",
+    "event": "Masters osakilpailu 3, Tampere FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A16",
+    "opponent": "RANTANEN Joona (FIN)",
+    "opponentUrl": "/en/biography/athlete/319741",
+    "win": false,
+    "scoreOwn": 10,
+    "scoreOpponent": 15
+  },
+  {
+    "date": "1/19/19",
+    "event": "Masters osakilpailu 3, Tampere FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LEHTINEN Kasper (FIN)",
+    "opponentUrl": "/en/biography/athlete/385136",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/19/19",
+    "event": "Masters osakilpailu 3, Tampere FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "AFANASSIEV Nikita (FIN)",
+    "opponentUrl": "/en/biography/athlete/375377",
+    "win": false,
+    "scoreOwn": 0,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/19/19",
+    "event": "Masters osakilpailu 3, Tampere FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "HEINÄMAA Akseli (FIN)",
+    "opponentUrl": "/en/biography/athlete/319725",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "1/19/19",
+    "event": "Masters osakilpailu 3, Tampere FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "LAITINEN Anssi (FIN)",
+    "opponentUrl": "/en/biography/athlete/laitinen-anssi",
+    "win": true,
+    "scoreOwn": 5,
+    "scoreOpponent": 3
+  },
+  {
+    "date": "1/19/19",
+    "event": "Masters osakilpailu 3, Tampere FIN",
+    "discipline": "Epee Men's U17 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "1",
+    "opponent": "RISSANEN Aapo (FIN)",
+    "opponentUrl": "/en/biography/athlete/328043",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  }
+]

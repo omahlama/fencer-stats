@@ -1,0 +1,80 @@
+[
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "DE",
+    "round": "A",
+    "match": "A32",
+    "opponent": "HESSO Heikki (FIN)",
+    "opponentUrl": "/en/biography/athlete/hesso-heikki",
+    "win": false,
+    "scoreOwn": 5,
+    "scoreOpponent": 10
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "NURMI Niilo (FIN)",
+    "opponentUrl": "/en/biography/athlete/nurmi-niilo",
+    "win": false,
+    "scoreOwn": 4,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "VARIS Erik (EST)",
+    "opponentUrl": "/en/biography/athlete/varis-erik",
+    "win": false,
+    "scoreOwn": 1,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "KLEIMOLA Juuso (FIN)",
+    "opponentUrl": "/en/biography/athlete/kleimola-juuso",
+    "win": false,
+    "scoreOwn": 2,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "MIDT Elisabeth (EST)",
+    "opponentUrl": "/en/biography/athlete/midt-elisabeth",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  },
+  {
+    "date": "4/11/26",
+    "event": "Turku Masters, Turku FIN",
+    "discipline": "Epee Open U13 Individual",
+    "stage": "Round",
+    "round": "",
+    "match": "2",
+    "opponent": "PIERRO Igor (FIN)",
+    "opponentUrl": "/en/biography/athlete/pierro-igor",
+    "win": false,
+    "scoreOwn": 3,
+    "scoreOpponent": 5
+  }
+]
