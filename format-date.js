@@ -1,22 +1,34 @@
+import { format, isValid, parse, parseISO } from 'date-fns';
+
+const ISO_DATE = 'yyyy-MM-dd';
+const FINNISH_DATE = 'dd.MM.yyyy';
+const PARSE_REF = new Date(2020, 0, 1);
+
+function toIso(date) {
+  return format(date, ISO_DATE);
+}
+
 export function parseDateToIso(dateStr) {
   if (!dateStr) return dateStr;
 
   const trimmed = dateStr.trim();
 
-  if (/^\d{4}-\d{2}-\d{2}$/.test(trimmed)) return trimmed;
-
-  const finnish = trimmed.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
-  if (finnish) {
-    const [, day, month, year] = finnish;
-    return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
+  if (/^\d{4}-\d{2}-\d{2}$/.test(trimmed)) {
+    const date = parseISO(trimmed);
+    return isValid(date) ? toIso(date) : trimmed;
   }
 
-  const us = trimmed.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2,4})$/);
-  if (us) {
-    const [, month, day, yearPart] = us;
-    const year =
-      yearPart.length === 2 ? 2000 + Number.parseInt(yearPart, 10) : Number.parseInt(yearPart, 10);
-    return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
+  const finnish = parse(trimmed, 'd.M.yyyy', PARSE_REF);
+  if (isValid(finnish)) return toIso(finnish);
+
+  if (/^\d{1,2}\/\d{1,2}\/\d{2}$/.test(trimmed)) {
+    const usShortYear = parse(trimmed, 'M/d/yy', PARSE_REF);
+    if (isValid(usShortYear)) return toIso(usShortYear);
+  }
+
+  if (/^\d{1,2}\/\d{1,2}\/\d{4}$/.test(trimmed)) {
+    const usLongYear = parse(trimmed, 'M/d/yyyy', PARSE_REF);
+    if (isValid(usLongYear)) return toIso(usLongYear);
   }
 
   return trimmed;
@@ -25,9 +37,8 @@ export function parseDateToIso(dateStr) {
 export function formatDateFinnish(isoDate) {
   if (!isoDate) return isoDate;
 
-  const m = isoDate.match(/^(\d{4})-(\d{2})-(\d{2})$/);
-  if (!m) return isoDate;
+  const date = parseISO(isoDate);
+  if (!isValid(date)) return isoDate;
 
-  const [, year, month, day] = m;
-  return `${day}.${month}.${year}`;
+  return format(date, FINNISH_DATE);
 }
