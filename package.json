@@ -13,7 +13,8 @@
     "dev": "vite --config web/vite.config.js",
     "build": "vite build --config web/vite.config.js",
     "preview": "vite preview --config web/vite.config.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm run build && gh-pages -d web/dist"
   },
   "dependencies": {
     "axios": "^1.16.1",
@@ -21,6 +22,7 @@
     "commander": "^14.0.3"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "vite": "^8.0.13",
     "vite-plugin-static-copy": "^4.1.0"
   }

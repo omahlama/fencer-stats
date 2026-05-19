@@ -25,6 +25,7 @@ function serveDataPlugin() {
 }
 
 export default defineConfig({
+  base: './',
   root: __dirname,
   plugins: [
     serveDataPlugin(),
