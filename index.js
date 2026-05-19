@@ -8,8 +8,11 @@ async function scrape(url) {
   const cards = $('.card');
   const data = cards.map((i, card) => {
     const $card = $(card);
+    const image = $card.find('img').attr('src');
     return {
       name: $card.find('h6').text().trim(),
+      image: image === '/img/nopicture.jpg' ? null : image,
+      club: $card.find('p.card-text').first().text().trim(),
       url: $card.find('a').attr('href'),
     };
   }).get();
