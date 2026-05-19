@@ -1,6 +1,7 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
-import { mkdir, readFile, writeFile } from 'fs/promises';
+import { constants } from 'fs';
+import { access, mkdir, readFile, writeFile } from 'fs/promises';
 import { dirname } from 'path';
 
 const BASE_URL = 'https://fencing.ophardt.online';
@@ -162,10 +163,27 @@ export async function fetchMatches(name) {
   await fetchMatchesForAthlete(athlete);
 }
 
-export async function fetchAllMatches() {
+function matchOutputPath(slug) {
+  return `data/matches/${slug}.json`;
+}
+
+async function matchFileExists(slug) {
+  try {
+    await access(matchOutputPath(slug), constants.F_OK);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+export async function fetchAllMatches({ reload = false } = {}) {
   const athletes = await loadAthletes();
   for (const athlete of athletes) {
     const slug = athleteSlug(athlete.url);
+    if (!reload && await matchFileExists(slug)) {
+      console.log(`Skipping ${athlete.name} (${slug}), already loaded`);
+      continue;
+    }
     console.log(`\nFetching ${athlete.name} (${slug})...`);
     await fetchMatchesForAthlete(athlete);
   }

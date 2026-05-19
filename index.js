@@ -32,8 +32,9 @@ const matches = program.command('matches').description('Manage match data');
 matches
   .command('fetch-all')
   .description('Fetch matches for all cached athletes')
-  .action(async () => {
-    await fetchAllMatches();
+  .option('--reload', 'Re-fetch matches for athletes that already have cached data')
+  .action(async (options) => {
+    await fetchAllMatches({ reload: options.reload });
   });
 
 matches
