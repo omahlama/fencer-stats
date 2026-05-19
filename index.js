@@ -2,7 +2,7 @@
 
 import { Command } from 'commander';
 import { fetchAthletes, listAthletes } from './fetch-athletes.js';
-import { fetchAllMatches, fetchMatches, listMatches } from './fetch-matches.js';
+import { fetchAllMatches, fetchMatches, cleanupMatches, listMatches } from './fetch-matches.js';
 
 const program = new Command();
 
@@ -51,6 +51,13 @@ matches
   .argument('<name>', 'Athlete slug or name')
   .action(async (name) => {
     await listMatches(name);
+  });
+
+matches
+  .command('cleanup')
+  .description('Remove duplicate matches from cached match files')
+  .action(async () => {
+    await cleanupMatches();
   });
 
 program.parseAsync(process.argv).catch((err) => {

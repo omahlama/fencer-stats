@@ -1,11 +1,12 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 import { constants } from 'fs';
-import { access, mkdir, readFile, writeFile } from 'fs/promises';
+import { access, mkdir, readdir, readFile, writeFile } from 'fs/promises';
 import { dirname } from 'path';
 
 const BASE_URL = 'https://fencing.ophardt.online';
 const ATHLETES_FILE = 'data/athletes.json';
+const MATCHES_DIR = 'data/matches';
 
 function athleteSlug(url) {
   return url.replace(/\/$/, '').split('/').pop();
@@ -200,4 +201,44 @@ export async function listMatches(name) {
     const score = `${match.scoreOwn}-${match.scoreOpponent}`;
     console.log(`${match.date} ${result} ${score} vs ${match.opponent}`);
   }
+}
+
+function dedupeMatches(matches) {
+  const seen = new Set();
+  const unique = [];
+  for (const match of matches) {
+    const key = JSON.stringify(match);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    unique.push(match);
+  }
+  return unique;
+}
+
+export async function cleanupMatches() {
+  const files = (await readdir(MATCHES_DIR)).filter((f) => f.endsWith('.json')).sort();
+  const total = files.length;
+  let totalRemoved = 0;
+  let filesChanged = 0;
+
+  for (let i = 0; i < files.length; i++) {
+    const file = files[i];
+    const path = `${MATCHES_DIR}/${file}`;
+    const matches = JSON.parse(await readFile(path, 'utf8'));
+    const unique = dedupeMatches(matches);
+    const removed = matches.length - unique.length;
+
+    if (removed > 0) {
+      await writeFile(path, JSON.stringify(unique, null, 2));
+      totalRemoved += removed;
+      filesChanged++;
+    }
+
+    const slug = file.replace(/\.json$/, '');
+    const pct = (((i + 1) / total) * 100).toFixed(1);
+    process.stdout.write(`\r${pct}% (${i + 1}/${total}) ${slug}`);
+  }
+
+  console.log();
+  console.log(`Removed ${totalRemoved} duplicate${totalRemoved === 1 ? '' : 's'} from ${filesChanged} file${filesChanged === 1 ? '' : 's'}`);
 }
