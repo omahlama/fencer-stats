@@ -1,3 +1,4 @@
+import { formatDateFinnish } from '../../../format-date.js';
 import { athleteSlug } from '../slug.js';
 import { findAthlete, loadMatches } from '../data.js';
 
@@ -108,7 +109,9 @@ function renderCompetitionRow(compMatches) {
   tr.className = 'competition-row';
   const td = document.createElement('td');
   td.colSpan = 7;
-  const label = [first.date, first.event, first.discipline].filter(Boolean).join(' · ');
+  const label = [formatDateFinnish(first.date), first.event, first.discipline]
+    .filter(Boolean)
+    .join(' · ');
   const summary = summarizeCompetition(compMatches);
   const medal = competitionMedal(compMatches);
   td.textContent = `${label} — ${summary}${medal ? ` ${medal}` : ''}`;
@@ -155,7 +158,7 @@ function renderMatchRow(match) {
   tr.appendChild(renderStageCell(match));
 
   const cells = [
-    match.date,
+    formatDateFinnish(match.date),
     match.event,
     match.discipline ?? '',
     null,

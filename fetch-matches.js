@@ -3,6 +3,7 @@ import * as cheerio from 'cheerio';
 import { constants } from 'fs';
 import { access, mkdir, readdir, readFile, writeFile } from 'fs/promises';
 import { dirname } from 'path';
+import { formatDateFinnish, parseDateToIso } from './format-date.js';
 
 const BASE_URL = 'https://fencing.ophardt.online';
 const ATHLETES_FILE = 'data/athletes.json';
@@ -75,7 +76,7 @@ function parseMatchTable(html) {
     const opponent = win ? loser : winner;
 
     matches.push({
-      date: $(cells[0]).text().trim(),
+      date: parseDateToIso($(cells[0]).text().trim()),
       event,
       discipline,
       stage: $(cells[2]).text().trim(),
@@ -199,7 +200,7 @@ export async function listMatches(name) {
   for (const match of matches) {
     const result = match.win ? 'W' : 'L';
     const score = `${match.scoreOwn}-${match.scoreOpponent}`;
-    console.log(`${match.date} ${result} ${score} vs ${match.opponent}`);
+    console.log(`${formatDateFinnish(match.date)} ${result} ${score} vs ${match.opponent}`);
   }
 }
 
@@ -215,6 +216,18 @@ function dedupeMatches(matches) {
   return unique;
 }
 
+function normalizeMatchDates(matches) {
+  let changed = false;
+  for (const match of matches) {
+    const iso = parseDateToIso(match.date);
+    if (iso !== match.date) {
+      match.date = iso;
+      changed = true;
+    }
+  }
+  return changed;
+}
+
 export async function cleanupMatches() {
   const files = (await readdir(MATCHES_DIR)).filter((f) => f.endsWith('.json')).sort();
   const total = files.length;
@@ -225,10 +238,11 @@ export async function cleanupMatches() {
     const file = files[i];
     const path = `${MATCHES_DIR}/${file}`;
     const matches = JSON.parse(await readFile(path, 'utf8'));
+    const datesChanged = normalizeMatchDates(matches);
     const unique = dedupeMatches(matches);
     const removed = matches.length - unique.length;
 
-    if (removed > 0) {
+    if (removed > 0 || datesChanged) {
       await writeFile(path, JSON.stringify(unique, null, 2));
       totalRemoved += removed;
       filesChanged++;
