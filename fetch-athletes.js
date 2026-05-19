@@ -25,6 +25,13 @@ function* twoLetterTerms() {
   }
 }
 
+function athleteName($card) {
+  const $link = $card.find('h6 a').first();
+  const firstName = $link.find('small').text().trim();
+  const lastName = $link.clone().find('small, br').remove().end().text().trim();
+  return [lastName, firstName].filter(Boolean).join(' ');
+}
+
 async function scrape(url) {
   const { data: html } = await axios.get(url);
   const $ = cheerio.load(html);
@@ -34,7 +41,7 @@ async function scrape(url) {
     const $card = $(card);
     const image = $card.find('img').attr('src');
     return {
-      name: $card.find('h6').text().trim(),
+      name: athleteName($card),
       image: image === '/img/nopicture.jpg' ? null : image,
       club: $card.find('p.card-text').first().text().trim(),
       url: $card.find('a').attr('href'),
