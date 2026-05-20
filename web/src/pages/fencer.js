@@ -103,12 +103,12 @@ function renderStageCell(match) {
   return td;
 }
 
-function renderCompetitionRow(compMatches) {
+function renderCompetitionRow(compMatches, compact) {
   const first = compMatches[0];
   const tr = document.createElement('tr');
   tr.className = 'competition-row';
   const td = document.createElement('td');
-  td.colSpan = 7;
+  td.colSpan = compact ? 4 : 7;
   const label = [formatDateFinnish(first.date), first.event, first.discipline]
     .filter(Boolean)
     .join(' · ');
@@ -120,6 +120,7 @@ function renderCompetitionRow(compMatches) {
 }
 
 function buildTableRows(filtered, allMatches, showCompetitionHeaders) {
+  const compact = showCompetitionHeaders;
   const competitionGroups = new Map();
   if (showCompetitionHeaders) {
     for (const match of allMatches) {
@@ -134,10 +135,10 @@ function buildTableRows(filtered, allMatches, showCompetitionHeaders) {
   for (const match of filtered) {
     const key = competitionKey(match);
     if (showCompetitionHeaders && key !== lastKey) {
-      rows.push(renderCompetitionRow(competitionGroups.get(key)));
+      rows.push(renderCompetitionRow(competitionGroups.get(key), compact));
       lastKey = key;
     }
-    rows.push(renderMatchRow(match));
+    rows.push(renderMatchRow(match, compact));
   }
   return rows;
 }
@@ -151,30 +152,36 @@ function opponentLink(opponentUrl, opponent) {
   return a;
 }
 
-function renderMatchRow(match) {
+function renderMatchRow(match, compact) {
   const tr = document.createElement('tr');
   tr.className = match.win ? 'win' : 'loss';
 
   tr.appendChild(renderStageCell(match));
 
-  const cells = [
-    formatDateFinnish(match.date),
-    match.event,
-    match.discipline ?? '',
-    null,
-    match.win ? 'W' : 'L',
-    `${match.scoreOwn}–${match.scoreOpponent}`,
-  ];
-
-  for (const [i, value] of cells.entries()) {
-    const td = document.createElement('td');
-    if (i === 3) {
-      td.appendChild(opponentLink(match.opponentUrl, match.opponent));
-    } else {
+  if (!compact) {
+    for (const value of [
+      formatDateFinnish(match.date),
+      match.event,
+      match.discipline ?? '',
+    ]) {
+      const td = document.createElement('td');
       td.textContent = value;
+      tr.appendChild(td);
     }
-    tr.appendChild(td);
   }
+
+  const opponentTd = document.createElement('td');
+  opponentTd.appendChild(opponentLink(match.opponentUrl, match.opponent));
+  tr.appendChild(opponentTd);
+
+  const resultTd = document.createElement('td');
+  resultTd.className = 'result-cell';
+  resultTd.textContent = match.win ? 'W' : 'L';
+  tr.appendChild(resultTd);
+
+  const scoreTd = document.createElement('td');
+  scoreTd.textContent = `${match.scoreOwn}–${match.scoreOpponent}`;
+  tr.appendChild(scoreTd);
 
   return tr;
 }
@@ -242,9 +249,9 @@ export async function renderFencerPage(root, slug) {
       <thead>
         <tr>
           <th></th>
-          <th>Date</th>
-          <th>Event</th>
-          <th>Discipline</th>
+          <th class="col-competition">Date</th>
+          <th class="col-competition">Event</th>
+          <th class="col-competition">Discipline</th>
           <th>Opponent</th>
           <th>Result</th>
           <th>Score</th>
@@ -254,12 +261,16 @@ export async function renderFencerPage(root, slug) {
     `;
 
     const tbody = table.querySelector('tbody');
+    const competitionHeaders = table.querySelectorAll('.col-competition');
 
     const update = () => {
       const filtered = selectedOpponent
         ? matches.filter((m) => opponentKey(m) === selectedOpponent)
         : matches;
       const showCompetitionHeaders = !selectedOpponent;
+      for (const th of competitionHeaders) {
+        th.hidden = showCompetitionHeaders;
+      }
       tbody.replaceChildren(...buildTableRows(filtered, matches, showCompetitionHeaders));
       summary.textContent = `${filtered.length} match${filtered.length === 1 ? '' : 'es'}`;
     };

@@ -155,12 +155,12 @@ body {
   border-bottom: none;
 }
 
-.match-table tr.win td:nth-child(6) {
+.match-table tr.win td.result-cell {
   color: #15803d;
   font-weight: 600;
 }
 
-.match-table tr.loss td:nth-child(6) {
+.match-table tr.loss td.result-cell {
   color: #b91c1c;
   font-weight: 600;
 }
